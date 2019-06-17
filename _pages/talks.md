@@ -9,7 +9,7 @@ author_profile: true
 
 <b> Neural Attention for Text-based Reasoning and Recommendation </b> <br>
 Amazon AI, Amazon Web Services, Palo Alto<br>
-May 2019, <i> Host: Dr Alex Smola </i>
+May 2019, <i> Host: Dr Alex J. Smola </i>
 
 <b> Neural Attention for Text-based Reasoning and Recommendation </b> <br>
 Salesforce Research Asia, Singapore <br>
