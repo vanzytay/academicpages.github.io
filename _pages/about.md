@@ -16,7 +16,7 @@ I mainly work on applications involving natural language understanding, question
 
 ## Latest News
 
-* 10.06.2019 - Submitted my PhD thesis! 
+* 10.06.2019 - Submitted my PhD thesis!
 * 16.05.2019  - Serving as program committee for EMNLP 2019.
 * 14.05.2019 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!
 * 10.05.2019 - Quaternion Collaborative Filtering accepted to IJCAI 2019. Joint work with [Shuai](https://sites.google.com/view/shuaizhang/home) and [Aston](https://www.astonzhang.com/).
@@ -26,8 +26,8 @@ I mainly work on applications involving natural language understanding, question
 * 07.02.2019 - Invited to serve as program committee for ACL 2019 and *Sem 2019.
 * 04.12.2018 - Presented two papers at NeurIPS in Montreal!
 * 16.11.2018 - Serving as program committee of NAACL 2019.
-* 01.11.2018 - One paper with Shuai accepted to AAAI 2019.
+* 01.11.2018 - One paper with [Shuai](https://sites.google.com/view/shuaizhang/home) accepted to AAAI 2019.
 * 31.10.2018 - Attended EMNLP 2018 in Brussels.
-* 11.10.2018 - Survey on Deep Recommender Systems with Shuai accepted to ACM Computing Surveys.
+* 11.10.2018 - Survey on Deep Recommender Systems with [Shuai](https://sites.google.com/view/shuaizhang/home) accepted to ACM Computing Surveys.
 * 10.10.2018 - Received best reviewer award for EMNLP 2018.
 * 05.09.2018 - 2 Papers accepted to NeurIPS 2018!

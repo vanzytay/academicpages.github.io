@@ -7,145 +7,213 @@ author_profile: true
 
 You are viewing full chronological publication list.
 
-Browse by [research area]() or [selected papers only]().
-
 ## Year of 2019
 <b> [Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks]() </b>  <br>
 <b>Yi Tay</b>, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui <br>
-<i> Proceedings of ACL 2019 (Long Paper)</i>
+<i> Proceedings of ACL 2019 (Long Paper)</i> <br>
+<img src="/images/ntu.png" width="60" height="45" hspace="2"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"><img src="/images/mit.png" width="60" height="30" hspace="4">  <img src="/images/facebook.png" width="60" height="30"> <img src="/images/unsw.png" width="60" height="30"> <img src="/images/smu.png" width="60" height="30">  <img src="/images/mila.png" width="60" height="30">
+<br>
+[PDF](https://arxiv.org/abs/1906.04393) | [Code](https://github.com/vanzytay/QuaternionTransformers) |  <br>
+
 
 <b> [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives]() </b>  <br>
 <b>Yi Tay</b>, Shuohang Wang, Anh Tuan Luu, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui, Aston Zhang <br>
-<i> Proceedings of ACL 2019 (Long Paper) </i>
+<i> Proceedings of ACL 2019 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/smu.png" width="60" height="30"> <img src="/images/mit.png" width="60" height="30" hspace="4"> <img src="/images/mila.png" width="60" height="30">  <img src="/images/microsoft.png" width="60" height="30"><img src="/images/facebook.png" width="60" height="30"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"> <br>
+[PDF](https://arxiv.org/abs/1906.04393) |  <br>
 
 <b> [Robust Representation Learning of Biomedical Names]() </b>  <br>
 Minh C. Phan, Aixin Sun, <b>Yi Tay</b> <br>
-<i> Proceedings of ACL 2019 (Long Paper) </i>
+<i> Proceedings of ACL 2019 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | <br>
+
 
 <b> [Confusionset-guided Pointer Networks for Chinese Spelling Check]() </b>  <br>
 Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
-<i> Proceedings of ACL 2019 (Short Paper) </i>
+<i> Proceedings of ACL 2019 (Short Paper) </i> <br>
+<img src="/images/tencent.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | <br>
+
 
 <b> [Holographic Factorization Machines for Recommendation]() </b>  <br>
 <b>Yi Tay</b>, Shuai Zhang, Anh Tuan Luu, Siu Cheung Hui, Lina Yao,  Lucas Vinh Tran <br>
-<i> Proceedings of AAAI 2019 </i>
+<i> Proceedings of AAAI 2019 </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/unsw.png" width="60" height="30"><br>
+[PDF]() | <br>
 
 <b> [Quaternion Collaborative Filtering for Recommendation]() </b>  <br>
 Shuai Zhang, Lina Yao, Lucas Vinh Tranh, Aston Zhang, <b>Yi Tay</b> <br>
-<i> Proceedings of IJCAI 2019 </i>
+<i> Proceedings of IJCAI 2019 </i> <br>
+<img src="/images/unsw.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | <br>
 
 <b> [Interact and Decide: Medley of Sub-Attention Networks for Group Recommendation]() </b>  <br>
 Lucas Vinh Tranh, Tuan-Anh Nguyen Pham, <b>Yi Tay</b>, Yiding Liu, Gao Cong, Xiaoli Li <br>
-<i> Proceedings of SIGIR 2019 (Full Paper) </i>
+<i> Proceedings of SIGIR 2019 (Full Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | <br>
 
 <b> [Deep Learning based Recommender System - A Survey and New Perspectives]() </b>  <br>
 Shuai Zhang, Lina Yao, Aixin Sun, <b>Yi Tay</b> <br>
-<i> Proceedings of ACM Computing Surveys (2019) </i>
+<i> Proceedings of ACM Computing Surveys (2019) </i> <br>
+<img src="/images/unsw.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | [Code](https://github.com/cheungdaven/DeepRec) <br>
 
 ## Year of 2018
 
 <b> [Recurrently Controlled Recurrent Networks]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of NeurIPS 2018 </i>
+<i> Proceedings of NeurIPS 2018 </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/NIPS2018_RCRN)<br>
 
 <b> [Densely Connected Attention Propagation for Reading Comprehension]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui, Jian Su <br>
-<i> Proceedings of NeurIPS 2018 </i>
+<i> Proceedings of NeurIPS 2018 </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/NIPS2018_DECAPROP)<br>
 
 <b> [Reasoning with Sarcasm by Reading In-Between]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui, Jian Su <br>
-<i> Proceedings of ACL 2018 (Long Paper, Oral) </i>
+<i> Proceedings of ACL 2018 (Long Paper, Oral) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorizaton for Natural Language Inference]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of EMNLP 2018 (Long Paper) </i>
+<i> Proceedings of EMNLP 2018 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/EMNLP2018_NLI)<br>
 
 <b> [Co-stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of EMNLP 2018 (Long Paper) </i>
+<i> Proceedings of EMNLP 2018 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/EMNLP2018_NLI)<br>
 
 <b> [Multi-Granular Sequence Encoding via Dilated Composition Units for Reading Comprehension]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of EMNLP 2018 (Long Paper) </i>
+<i> Proceedings of EMNLP 2018 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/EMNLP18_DCU)<br>
 
 <b> [Attentive Gated Lexicon Reader via Contrastive Contextual Co-Attention for Sentiment Classification]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui, Jian Su <br>
-<i> Proceedings of EMNLP 2018 (Long Paper) </i>
+<i> Proceedings of EMNLP 2018 (Long Paper) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Multi-Pointer Co-Attention Networks for Recommendation]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of KDD 2018 (Oral) </i>
+<i> Proceedings of KDD 2018 (Oral) </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/KDD2018_MPCN)<br>
 
 <b> [Multi-Cast Attention Networks]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of KDD 2018  </i>
+<i> Proceedings of KDD 2018  </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of WWW 2018  </i>
+<i> Proceedings of WWW 2018  </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/WWW2018_LRML)<br>
 
 <b> [Hyperbolic Representation Learning for Fast and Effiient Neural Question Answering]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of WSDM 2018  </i>
+<i> Proceedings of WSDM 2018  </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Code](https://github.com/vanzytay/WSDM2018_HyperQA)<br>
 
 
 <b> [CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of ICWSM 2018  </i>
+<i> Proceedings of ICWSM 2018  </i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Dataset](https://www.dropbox.com/s/ve4tepv3asgss3j/couplenet.zip?dl=0)<br>
 
 <b> [Cross Temporal Recurrent Networks for Ranking Question Answer Pairs]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of AAAI 2018  (Oral)</i>
+<i> Proceedings of AAAI 2018  (Oral)</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Dataset](https://github.com/vanzytay/YahooQA_Splits)<br>
 
 <b> [Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of AAAI 2018</i>
+<i> Proceedings of AAAI 2018</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Dataset](https://github.com/vanzytay/ABSA_DevSplits)<br>
 
 <b> [SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of AAAI 2018</i>
+<i> Proceedings of AAAI 2018</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Hermitian Co-Attention Networks for Text Matching in Asymmetrical Domains]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of IJCAI 2018</i>
+<i> Proceedings of IJCAI 2018</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All ]() </b>  <br>
 Minh C. Phan, Aixin Sun, <b>Yi Tay</b>, Jialong Han, Chenliang Li <br>
-<i> Proceedings of IEEE TKDE 2018</i>
+<i> Proceedings of IEEE TKDE 2018</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
-## 2017 and Before
+# 2017 and Before
 
 <b> [Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture]() </b>  <br>
 <b>Yi Tay</b>, Minh C.Phan, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of SIGIR 2017</i>
+<i> Proceedings of SIGIR 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Dataset](https://github.com/vanzytay/YahooQA_Splits)<br>
 
 <b> [Random Semantic Tensor Ensemble for Scalable Link Prediction on Knowledge Graphs]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui, Falk Brauer <br>
-<i> Proceedings of WSDM 2017</i>
+<i> Proceedings of WSDM 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() | [Dataset]( )<br>
 
 <b> [Non-parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of AAAI 2017</i>
+<i> Proceedings of AAAI 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Multi-task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Minh C.Phan, Siu Cheung Hui <br>
-<i> Proceedings of CIKM 2017</i>
+<i> Proceedings of CIKM 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 <b> [Dyadic Memory Networks for Aspect-based Sentiment Analysis]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
-<i> Proceedings of CIKM 2017</i>
+<i> Proceedings of CIKM 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]()<br>
 
 <b> [NeuPL: Attention-based Semantic Matching and Pair Linking for Entity Disambiguation]() </b>  <br>
 Minh C. Phan, Aixin Sun, <b>Yi Tay</b>, Jialong Han, Chenliang Li  <br>
-<i> Proceedings of CIKM 2017</i>
+<i> Proceedings of CIKM 2017</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><br>
+[PDF]()<br>
 
 <b> [Cross Device User Linking : URL, Session, Visiting Time and Device Log Embedding]() </b>  <br>
 Minh C. Phan, Aixin Sun, <b>Yi Tay</b> <br>
-<i> Proceedings of SIGIR 2017 (Short Paper)</i>
+<i> Proceedings of SIGIR 2017 (Short Paper)</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><br>
+[PDF]() | [Code](https://github.com/minhcp/GBUL)<br>
 
 <b> [Learning Term Embeddings for Taxonomic Relation Identification with Dynamic Weighting Neural Network]() </b>  <br>
 Anh Tuan Luu, <b>Yi Tay</b>, Siu Cheung Hui, See Kiong Ng<br>
-<i> Proceedings of EMNLP 2016 (Long Paper)</i>
+<i> Proceedings of EMNLP 2016 (Long Paper)</i> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
+[PDF]() <br>
 
 ## Workshops and Demos
 
