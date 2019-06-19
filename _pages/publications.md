@@ -7,7 +7,7 @@ author_profile: true
 
 You are viewing full chronological publication list.
 
-## Year of 2019
+# Year of 2019
 <b> [Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks]() </b>  <br>
 <b>Yi Tay</b>, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui <br>
 <i> Proceedings of ACL 2019 (Long Paper)</i> <br>
@@ -60,7 +60,7 @@ Shuai Zhang, Lina Yao, Aixin Sun, <b>Yi Tay</b> <br>
 <img src="/images/unsw.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF](https://arxiv.org/abs/1707.07435) | [Code](https://github.com/cheungdaven/DeepRec) <br>
 
-## Year of 2018
+# Year of 2018
 
 <b> [Recurrently Controlled Recurrent Networks]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
@@ -215,16 +215,39 @@ Anh Tuan Luu, <b>Yi Tay</b>, Siu Cheung Hui, See Kiong Ng<br>
 <img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
 [PDF](https://aclweb.org/anthology/D16-1039) <br>
 
-## Workshops and Demos
+# Workshops and Demos
 
 <b> [Detecting Waterborne Debris with Sim2Real and Randomization]() </b>  <br>
 Jie Fu, Ritchie Ng, Mirgahney Mohamed, <b>Yi Tay</b>, Kris Sankaran,<br> Shangbang Long, Alfredo Canziani, Chris Pal, Moustapha Cisse<br>
-<i> Proceedings of ICML 2019 - AI4SocialGood Workshop </i>
+<i> Proceedings of ICML 2019 - AI4SocialGood Workshop </i> <br>
+<img src="/images/mila.png" width="60" height="30">
+<img src="/images/nus.jpg" width="60" height="30">
+<img src="/images/ntu.png" width="80" height="45" hspace="2">
+<img src="/images/aims.png" width="60" height="45" hspace="2">
+<img src="/images/pku.jpeg" width="60" height="45" hspace="2">
+<img src="/images/nyu.jpg" width="60" height="45" hspace="2">
+<img src="/images/googleai.png" width="110" height="60" hspace="2">
+<br>
+[PDF](https://aiforsocialgood.github.io/icml2019/accepted/track2/pdfs/18_aisg_icml2019.pdf)
+
 
 <b> [Next Item Recommendation with Self-Attentive Metric Learning]() </b>  <br>
 Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Aixin Sun, Jake An <br>
-<i> Proceedings of AAAI 2019 - RecNLP Workshop </i>
+<i> Proceedings of AAAI 2019 - RecNLP Workshop </i> <br>
+<img src="/images/unsw.png" width="60" height="30">
+<img src="/images/ntu.png" width="60" height="30">
 
 <b> [DeepRec: An Open-source Toolkit for Deep Learning based Recommendation]() </b>  <br>
 Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
-<i> Proceedings of IJCAI 2019 - Demo Track </i>
+<i> Proceedings of IJCAI 2019 - Demo Track </i> <br>
+<img src="/images/unsw.png" width="60" height="30">
+<img src="/images/ntu.png" width="60" height="30">
+
+# Preprints
+<b> [Quaternion Knowledge Graph Embedding]() </b> <br>
+Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Qi Liu <br>
+<i> arXiV preprint </i> <br>
+<img src="/images/unsw.png" width="60" height="30">
+<img src="/images/ntu.png" width="60" height="30">
+<img src="/images/oxford.jpeg" width="60" height="30"> <br>
+[PDF](https://arxiv.org/abs/1904.10281)
