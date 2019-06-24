@@ -14,6 +14,7 @@ You are viewing full chronological publication list.
 <img src="/images/ntu.png" width="60" height="45" hspace="2"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"><img src="/images/mit.png" width="60" height="30" hspace="4">  <img src="/images/facebook.png" width="60" height="30"> <img src="/images/unsw.png" width="60" height="30"> <img src="/images/smu.png" width="60" height="30">  <img src="/images/mila.png" width="60" height="30">
 <br>
 [PDF](https://arxiv.org/abs/1906.04393) | [Code](https://github.com/vanzytay/QuaternionTransformers) |  <br>
+<i> Featured in ICML 2019 [tutorial](https://www.youtube.com/watch?v=nS1Lse2B48w) <i> </br>
 
 
 <b> [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives]() </b>  <br>

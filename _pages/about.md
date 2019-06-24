@@ -16,6 +16,7 @@ I mainly work on applications involving natural language understanding, question
 
 ## Latest News
 
+* 21.06.2019 - Award ACL scholarship for attending ACL 2019! Thanks!
 * 10.06.2019 - Submitted my PhD thesis!
 * 16.05.2019  - Serving as program committee for EMNLP 2019.
 * 14.05.2019 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!
