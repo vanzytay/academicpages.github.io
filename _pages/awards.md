@@ -16,7 +16,7 @@ author_profile: true
 7. NeurIPS 2018 Travel Award - December 2018
 8. ACL 2019 Scholarship - June 2019
 
-# Competitions
+## Competitions
 1. CIKM AnalytiCup 2017 (Lazada Product Quality - Challenge) - Honorable Mention (5th place) - September 2017
 2. CVPR Textbook Question Answering Challenge  - 1st Place (Diagram Track) and 2nd place (Text Track)
 3. CIKM Cup 2016 (Cross Device User Linking track) - 1st Place
