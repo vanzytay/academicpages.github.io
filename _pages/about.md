@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! I am currently a fourth-year PhD candidate from Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
 
-I mainly work on applications involving natural language understanding, question answering and information retrieval. I also work on recommender systems, sentiment analysis and social data mining. I am affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar, working with Dr Luu Anh Tuan and Dr Su Jian.
+I mainly work on applications involving natural language understanding, question answering and information retrieval. I also work on recommender systems, sentiment analysis and social data mining. I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar, working with Dr Luu Anh Tuan and Dr Su Jian.
 
 *Update: I have submitted my PhD thesis and will join Google as a Research Scientist sometime late 2019 (TBC).*
 
 ## Latest News
 
-* 21.06.2019 - Award ACL scholarship for attending ACL 2019! Thanks!
+* 21.06.2019 - Awarded ACL scholarship for attending ACL 2019! Thanks!
 * 10.06.2019 - Submitted my PhD thesis!
 * 16.05.2019  - Serving as program committee for EMNLP 2019.
 * 14.05.2019 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!
