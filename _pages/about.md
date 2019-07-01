@@ -16,7 +16,8 @@ I mainly work on applications involving natural language understanding, question
 
 ## Latest News
 
-* 21.06.2019 - Awarded ACL scholarship for attending ACL 2019! Thanks!
+* 30.06.2019 - T2T implementation of Quaternion Transformers is released on [Github](https://github.com/vanzytay/QuaternionTransformers).
+* 21.06.2019 - Awarded ACL scholarship. See you in Florence.  
 * 10.06.2019 - Submitted my PhD thesis!
 * 16.05.2019  - Serving as program committee for EMNLP 2019.
 * 14.05.2019 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!

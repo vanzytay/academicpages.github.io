@@ -19,7 +19,7 @@ You are viewing full chronological publication list.
 
 <b> [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives]() </b>  <br>
 <b>Yi Tay</b>, Shuohang Wang, Anh Tuan Luu, Jie Fu, Minh C. Phan, Xingdi Yuan, Jinfeng Rao, Siu Cheung Hui, Aston Zhang <br>
-<i> Proceedings of ACL 2019 (Long Paper) </i> <br>
+<i> Proceedings of ACL 2019 (Long Paper, Oral Presentation) </i> <br>
 <img src="/images/ntu.png" width="60" height="30"><img src="/images/smu.png" width="60" height="30"> <img src="/images/mit.png" width="60" height="30" hspace="4"> <img src="/images/mila.png" width="60" height="30">  <img src="/images/microsoft.png" width="60" height="30"><img src="/images/facebook.png" width="60" height="30"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"> <br>
 [PDF](https://arxiv.org/pdf/1905.10847) |  <br>
 
@@ -32,7 +32,7 @@ Minh C. Phan, Aixin Sun, <b>Yi Tay</b> <br>
 
 <b> [Confusionset-guided Pointer Networks for Chinese Spelling Check]() </b>  <br>
 Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
-<i> Proceedings of ACL 2019 (Short Paper) </i> <br>
+<i> Proceedings of ACL 2019 (Short Paper, Oral Presentation) </i> <br>
 <img src="/images/tencent.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF]() | <br>
 
