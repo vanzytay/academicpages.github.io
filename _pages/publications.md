@@ -46,13 +46,13 @@ Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
 <b> [Quaternion Collaborative Filtering for Recommendation]() </b>  <br>
 Shuai Zhang, Lina Yao, Lucas Vinh Tranh, Aston Zhang, <b>Yi Tay</b> <br>
 <i> Proceedings of IJCAI 2019 </i> <br>
-<img src="/images/unsw.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
+<img src="/images/unsw.png" width="60" height="30"><img src="/images/amazon.jpeg" width="60" height="30" hspace="4"> <img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF](https://arxiv.org/abs/1906.02594) | <br>
 
 <b> [Interact and Decide: Medley of Sub-Attention Networks for Group Recommendation]() </b>  <br>
 Lucas Vinh Tranh, Tuan-Anh Nguyen Pham, <b>Yi Tay</b>, Yiding Liu, Gao Cong, Xiaoli Li <br>
 <i> Proceedings of SIGIR 2019 (Full Paper) </i> <br>
-<img src="/images/ntu.png" width="60" height="30"> <br>
+<img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30"> <br>
 [PDF]() | <br>
 
 <b> [Deep Learning based Recommender System - A Survey and New Perspectives]() </b>  <br>

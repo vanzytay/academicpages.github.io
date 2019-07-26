@@ -15,7 +15,7 @@ I mainly work on applications involving natural language understanding, question
 *Update: I have submitted my PhD thesis and will join Google as a Research Scientist sometime late 2019 (TBC).*
 
 ## Latest News
-
+* 26.07.2019 - Invited to serve as PC/Reviewer of ICLR 2020.
 * 30.06.2019 - T2T implementation of Quaternion Transformers is released on [Github](https://github.com/vanzytay/QuaternionTransformers).
 * 21.06.2019 - Awarded ACL scholarship. See you in Florence.  
 * 10.06.2019 - Submitted my PhD thesis!
@@ -33,3 +33,7 @@ I mainly work on applications involving natural language understanding, question
 * 11.10.2018 - Survey on Deep Recommender Systems with [Shuai](https://sites.google.com/view/shuaizhang/home) accepted to ACM Computing Surveys.
 * 10.10.2018 - Received best reviewer award for EMNLP 2018.
 * 05.09.2018 - 2 Papers accepted to NeurIPS 2018!
+
+### Notes
+
+Since people have been asking, I thought I should just leave a note here. I have temporarily disabled Google Scholar due to general instability/bugginess of the platform which have been randomly adding/removing a non-negligible amount of citations lately. Please contact me if there is a burning or pressing need to access my profile page. Thanks! :)
