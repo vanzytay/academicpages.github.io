@@ -12,7 +12,8 @@ author_profile: true
 3. *ACL* - 2019
 4. *EMNLP* - 2019, 2018 (Best Reviewer Award)
 5. *NAACL* - 2019
-6. *MM* - 2019
+6. *WSDM* - 2020
+7. *ACM MM* - 2019
 
 ## Journal (Invited Reviewer)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
