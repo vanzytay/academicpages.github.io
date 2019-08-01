@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## Conference (Program Committee \& Reviewer)
+## Conference (Program Committee and Reviewer)
 
 1. *ICLR* -  2020
 2. *NeurIPS* - 2019
