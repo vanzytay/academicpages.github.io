@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a fourth-year PhD candidate from Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
+Hi! I am currently a fourth-year PhD candidate @ Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
 
 I mainly work on applications involving natural language understanding, question answering and information retrieval. I also work on recommender systems, sentiment analysis and social data mining. I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar, working with Dr Luu Anh Tuan and Dr Su Jian.
 
-*Update: I have submitted my PhD thesis and will join Google as a Research Scientist sometime late 2019 (TBC).*
+*Update: I have submitted my PhD thesis and will join Google as a Research Scientist @ Mountain View sometime late 2019 (TBC).*
 
 ## Latest News
+* 31.07.2019 - Invited to serve as Program Committee of WSDM 2020.
 * 26.07.2019 - Invited to serve as PC/Reviewer of ICLR 2020.
 * 30.06.2019 - T2T implementation of Quaternion Transformers is released on [Github](https://github.com/vanzytay/QuaternionTransformers).
 * 21.06.2019 - Awarded ACL scholarship. See you in Florence.  
