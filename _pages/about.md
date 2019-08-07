@@ -15,6 +15,7 @@ I mainly work on applications involving natural language understanding, question
 *Update: I have submitted my PhD thesis and will join Google as a Research Scientist @ Mountain View sometime late 2019 (TBC).*
 
 ## Latest News
+* 07.08.2019 - Invited to serve as Program Committee of AAAI 2020.
 * 31.07.2019 - Invited to serve as Program Committee of WSDM 2020.
 * 26.07.2019 - Invited to serve as PC/Reviewer of ICLR 2020.
 * 30.06.2019 - T2T implementation of Quaternion Transformers is released on [Github](https://github.com/vanzytay/QuaternionTransformers).
