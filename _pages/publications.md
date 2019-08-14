@@ -36,7 +36,7 @@ Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
 <img src="/images/tencent.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF]() | <br>
 
-<b> [Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network]() <br>
+<b> [Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network]() </b> <br>
 Jinfeng Rao, Linqing Liu, <b> Yi Tay </b>, Wei Yang, Peng Shi, Jimmy Lin <br>
 <i> Proceedings of EMNLP 2019 (Long Paper) </i> <br>
 
