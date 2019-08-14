@@ -36,6 +36,10 @@ Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
 <img src="/images/tencent.png" width="60" height="30"><img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF]() | <br>
 
+<b> [Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network]() <br>
+Jinfeng Rao, Linqing Liu, <b> Yi Tay </b>, Wei Yang, Peng Shi, Jimmy Lin <br>
+<i> Proceedings of EMNLP 2019 (Long Paper) </i> <br>
+
 
 <b> [Holographic Factorization Machines for Recommendation]() </b>  <br>
 <b>Yi Tay</b>, Shuai Zhang, Anh Tuan Luu, Siu Cheung Hui, Lina Yao,  Lucas Vinh Tran <br>
@@ -123,7 +127,7 @@ Shuai Zhang, Lina Yao, Aixin Sun, <b>Yi Tay</b> <br>
 <img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
 [PDF](https://arxiv.org/abs/1707.05176) | [Code](https://github.com/vanzytay/WWW2018_LRML)<br>
 
-<b> [Hyperbolic Representation Learning for Fast and Effiient Neural Question Answering]() </b>  <br>
+<b> [Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
 <i> Proceedings of WSDM 2018  </i> <br>
 <img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br>
