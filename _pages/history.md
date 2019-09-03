@@ -1,20 +1,11 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "History"
+permalink: /history/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-Hi! I am currently a fourth-year PhD candidate @ Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
-
-I mainly work on applications involving natural language understanding, question answering and information retrieval. I also work on recommender systems, sentiment analysis and social data mining. I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar, working with Dr Luu Anh Tuan and Dr Su Jian.
-
-*Update: I have submitted my PhD thesis and will join Google as a Research Scientist @ Mountain View sometime late 2019 (TBC).*
-
-## Latest News
+## Full History
 * 13.08.2019 - Paper with [Jinfeng](https://jinfengr.github.io/) accepted to EMNLP 2019.
 * 07.08.2019 - Invited to serve as Program Committee of AAAI 2020.
 * 31.07.2019 - Invited to serve as Program Committee of WSDM 2020.
@@ -37,3 +28,20 @@ I mainly work on applications involving natural language understanding, question
 * 10.10.2018 - Received best reviewer award for EMNLP 2018.
 * 05.09.2018 - 2 Papers accepted to NeurIPS 2018!
 * 10.08.2018 - 4 full papers accepted to EMNLP 2018.
+* 14.07.2018 - Paper with Minh accepted to TKDE!
+* 07.05.2018 - Two full papers accepted to KDD'18!
+* 26.06.2018 - Attended and presented one full paper at ICWSM 2018 at Stanford.
+* 24.05.2018 - Invited to serve as a PC member (reviewer) of EMNLP 2018.
+* 07.05.2018 - Two full papers accepted to research track of KDD'18!
+* 23.04.2018 - Attended and presented one full paper in WWW 2018 Lyon, France.
+* 21.04.2018 - One full paper accepted at ACL 2018!
+* 17.04.2018 - One full paper accepted at IJCAI 2018!
+* 22.03.2018- One full paper accepted to ICWSM 2018!
+* 06.02.2018 - Attended and presented one full paper (spotlight) at WSDM 2018 at Los Angeles.
+* 04.02.2018 - Attended and presented 3 papers at AAAI 2018 at New Orleans.
+* 22.12.2017 - 1 Paper accepted to WWW 2018 on Collaborative Ranking.
+* 04.12.2017 - Passed my PhD candidature confirmation.
+* 09.11.2017 - 3 Papers accepted to AAAI 2018 at New Orleans.
+* 23.10.2017 - 1 Paper accepted to WSDM 2018.
+* 26.09.2017 - Awarded Honourable Mention for CIKM AnalytiCup 2017. (Lazada Product Title Quality Challenge)
+* 07.08.2017 - Attended and presented one full paper at SIGIR 2017, Tokyo Japan.

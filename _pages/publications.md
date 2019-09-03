@@ -29,7 +29,6 @@ Minh C. Phan, Aixin Sun, <b>Yi Tay</b> <br>
 <img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF]() | <br>
 
-
 <b> [Confusionset-guided Pointer Networks for Chinese Spelling Check]() </b>  <br>
 Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
 <i> Proceedings of ACL 2019 (Short Paper, Oral Presentation) </i> <br>
@@ -37,9 +36,11 @@ Dingmin Wang, <b>Yi Tay</b>, Li Zhong <br>
 [PDF]() | <br>
 
 <b> [Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network]() </b> <br>
-Jinfeng Rao, Linqing Liu, <b> Yi Tay </b>, Wei Yang, Peng Shi, Jimmy Lin <br>
+Jinfeng Rao, Linqing Liu, <b>Yi Tay</b>, Wei Yang, Peng Shi, Jimmy Lin <br>
 <i> Proceedings of EMNLP 2019 (Long Paper) </i> <br>
-
+<img src="/images/facebook.png" width="60" height="30">
+<img src="/images/waterloo.png" width="60" height="30"> <img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF]() | [Code](https://github.com/jinfengr/hcan) <br>
 
 <b> [Holographic Factorization Machines for Recommendation]() </b>  <br>
 <b>Yi Tay</b>, Shuai Zhang, Anh Tuan Luu, Siu Cheung Hui, Lina Yao,  Lucas Vinh Tran <br>
@@ -249,6 +250,15 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <img src="/images/ntu.png" width="60" height="30">
 
 # Preprints
+<b> [Interactive Machine Comprehension via Information Seeking Agents]() </b> <br>
+Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam Trischler <br>
+<i> arXiV preprint </i> <br>
+<img src="/images/microsoft.png" width="60" height="30">
+<img src="/images/mila.png" width="60" height="30">
+<img src="/images/ntu.png" width="60" height="30"> <br>
+[PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
+
+
 <b> [Quaternion Knowledge Graph Embedding]() </b> <br>
 Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Qi Liu <br>
 <i> arXiV preprint </i> <br>
