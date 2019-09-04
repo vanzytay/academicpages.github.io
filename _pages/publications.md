@@ -8,6 +8,26 @@ author_profile: true
 You are viewing full chronological publication list.
 
 # Year of 2019
+
+<b> [Compositional De-Attention Networks]() </b> <br>
+<b>Yi Tay</b>, Luu Anh Tuan, Aston Zhang, Shuohang Wang, Siu Cheung Hui <br>
+<i> Proceedings of NeurIPS 2019 </i> <br>
+<img src="/images/ntu.png" width="60" height="30">
+<img src="/images/mit.png" width="60" height="30" hspace="4">
+<img src="/images/amazon.jpeg" width="60" height="30" hspace="4">
+<img src="/images/smu.png" width="60" height="30">  <br>
+[PDF]() <br>
+
+
+<b> [Quaternion Knowledge Graph Embedding]() </b> <br>
+Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Qi Liu <br>
+<i> Proceedings of NeurIPS 2019 </i> <br>
+<img src="/images/unsw.png" width="60" height="30">
+<img src="/images/ntu.png" width="60" height="30">
+<img src="/images/oxford.jpeg" width="60" height="30"> <br>
+[PDF](https://arxiv.org/abs/1904.10281) <br>
+
+
 <b> [Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks]() </b>  <br>
 <b>Yi Tay</b>, Aston Zhang, Anh Tuan Luu, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, Siu Cheung Hui <br>
 <i> Proceedings of ACL 2019 (Long Paper)</i> <br>
@@ -257,12 +277,3 @@ Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam T
 <img src="/images/mila.png" width="60" height="30">
 <img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
-
-
-<b> [Quaternion Knowledge Graph Embedding]() </b> <br>
-Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Qi Liu <br>
-<i> arXiV preprint </i> <br>
-<img src="/images/unsw.png" width="60" height="30">
-<img src="/images/ntu.png" width="60" height="30">
-<img src="/images/oxford.jpeg" width="60" height="30"> <br>
-[PDF](https://arxiv.org/abs/1904.10281)
