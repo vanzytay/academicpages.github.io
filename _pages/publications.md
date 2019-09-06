@@ -16,7 +16,7 @@ You are viewing full chronological publication list.
 <img src="/images/mit.png" width="60" height="30" hspace="4">
 <img src="/images/amazon.jpeg" width="60" height="30" hspace="4">
 <img src="/images/smu.png" width="60" height="30">  <br>
-[PDF]() <br>
+[PDF](https://vanzytay.github.io/files/NeurIPS_2019_CODA.pdf) <br>
 
 
 <b> [Quaternion Knowledge Graph Embedding]() </b> <br>
