@@ -10,11 +10,12 @@ redirect_from:
 
 Hi! I am currently a fourth-year PhD candidate @ Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
 
-I mainly work on applications involving natural language understanding, question answering and information retrieval. I also work on recommender systems, sentiment analysis and social data mining. I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar, working with Dr Luu Anh Tuan and Dr Su Jian.
+I mainly work on applications involving natural language understanding, question answering and information retrieval. Previously, I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar.
 
-*Update: I have submitted my PhD thesis and will join Google as a Research Scientist @ Mountain View sometime late 2019 (TBC).*
+*Update: I have defended my PhD thesis and will join Google as a Research Scientist @ Mountain View in November.*
 
 ## Latest News
+* 11.09.2019 - Successfully defended by PhD thesis!
 * 04.09.2019 - 2 papers accepted to NeurIPS 2019.
 * 13.08.2019 - Paper with [Jinfeng](https://jinfengr.github.io/) accepted to EMNLP 2019.
 * 07.08.2019 - Invited to serve as Program Committee of AAAI 2020.
