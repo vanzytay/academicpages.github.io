@@ -15,7 +15,7 @@ I mainly work on applications involving natural language understanding, question
 *Update: I have defended my PhD thesis and will join Google as a Research Scientist @ Mountain View in November.*
 
 ## Latest News
-* 11.09.2019 - Successfully defended by PhD thesis!
+* 11.09.2019 - Successfully passed my oral defense!
 * 04.09.2019 - 2 papers accepted to NeurIPS 2019.
 * 13.08.2019 - Paper with [Jinfeng](https://jinfengr.github.io/) accepted to EMNLP 2019.
 * 07.08.2019 - Invited to serve as Program Committee of AAAI 2020.
