@@ -277,3 +277,9 @@ Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam T
 <img src="/images/mila.png" width="60" height="30">
 <img src="/images/ntu.png" width="60" height="30"> <br>
 [PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
+
+# Thesis and Dissertation
+<b> [Neural Architectures for Natural Language Understanding]() </b> <br>
+<b> Yi Tay </b> <br>
+<i> PhD Thesis, Nanyang Technological University </i> <br>
+[PDF](https://vanzytay.github.io/files/yi_tay_thesis_final.pdf) |

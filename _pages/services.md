@@ -19,10 +19,11 @@ author_profile: true
 ## Journal (Invited Reviewer)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
 2. IEEE Transactions on Neural Networks (TTNLS)
-3. Neurocomputing
-4. Information Processing and Management (IPM)
-5. Knowledge and Information Systems (KAIS)
-6. IEEE Access
+3. ACM Transactions on Information Systems (TOIS)
+4. Neurocomputing
+5. Information Processing and Management (IPM)
+6. Knowledge and Information Systems (KAIS)
+7. IEEE Access
 
 
 ## Workshop

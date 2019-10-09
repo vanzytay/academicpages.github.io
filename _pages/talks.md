@@ -7,6 +7,8 @@ author_profile: true
 
 <br>
 
+<h3> Research Talks </h3>
+
 <b> Neural Attention for Text-based Reasoning and Recommendation </b> <br>
 Amazon AI, Amazon Web Services, Palo Alto<br>
 May 2019, <i> Host: Dr Alex J. Smola </i>
@@ -38,6 +40,13 @@ Jan 2019, <i> Host: Dr Nancy Chen </i>
 <b> Neural Architectures for Natural Language Understanding </b> <br>
 Singapore Management University (SMU) <br>
 Nov 2018, <i> Host: Prof Jing Jiang </i>
+
+
+<h3> Conference Talks </h3>
+
+<b> Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives </b> <br>
+ACL Conference, Florence Italy <br>
+July 2019
 
 <b> Multi-Pointer Co-Attention Networks for Recommendation </b> <br>
 KDD Conference, London UK <br>
