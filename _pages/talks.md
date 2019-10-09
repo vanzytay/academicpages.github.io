@@ -5,61 +5,59 @@ permalink: /talks/
 author_profile: true
 ---
 
-<br>
+## Talks
 
-## Research Talks
-
-* Neural Attention for Text-based Reasoning and Recommendation
+* [Neural Attention for Text-based Reasoning and Recommendation]()
   * Amazon AI, Amazon Web Services, Palo Alto
   * May 2019, <i> Host: Dr Alex J. Smola </i>
 
-* Neural Attention for Text-based Reasoning and Recommendation
+* [Neural Attention for Text-based Reasoning and Recommendation]()
   * Salesforce Research Asia, Singapore
   * Feb 2019, <i> Host: Prof Steven Hoi </i>
 
-* Multi-Pointer and Memory-Augmented Attention Models for Recommendation
+* [Multi-Pointer and Memory-Augmented Attention Models for Recommendation]()
   * Stanford University, California
   * Jan 2019, <i> Host: Prof Jure Leskovec </i>
 
-* Neural Attention for Text-based Reasoning and Recommendation
+* [Neural Attention for Text-based Reasoning and Recommendation]()
   * Microsoft Research, Montreal
   * Jan 2019, <i> Host: Dr Adam Trischler </i>
 
-* Neural Attention for Text-based Reasoning and Recommendation
+* [Neural Attention for Text-based Reasoning and Recommendation]()
   * Google AI, Google Research, Mountain View <br>
   * Jan 2019, <i> Host: Dr Ed Chi </i>
 
-* Novel Neural Network Architectures for Sequence Encoding
+* [Novel Neural Network Architectures for Sequence Encoding]()
   * Singapore University of Technology and Design (SUTD)
   * Jan 2019, <i> Host: Prof Lu Wei </i>
 
-* Neural Networks for Question Answering
+* [Neural Networks for Question Answering]()
   * A\*STAR, Institute for Infocomm Research, Singapore
   * Jan 2019, <i> Host: Dr Nancy Chen </i>
 
-* Neural Architectures for Natural Language Understanding
+* [Neural Architectures for Natural Language Understanding]()
   * Singapore Management University (SMU)
   * Nov 2018, <i> Host: Prof Jing Jiang </i>
 
 
 ## Conference Talks
 
-* Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives
+* [Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives]()
   * ACL Conference, Florence Italy, July 2019
 
-* Multi-Pointer Co-Attention Networks for Recommendation
+* [Multi-Pointer Co-Attention Networks for Recommendation]()
   * KDD Conference, London UK, Aug 2018
 
-* CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation
+* [CoupleNet: Paying Attention to Couples with Coupled Attention for Relationship Recommendation]()
   * ICWSM Conference, Stanford California, June 2018
 
-* Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking
+* [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking]()
   * WWW Conference, Lyon France, April 2018
 
-* Cross Temporal Recurrent Networks for Ranking Question Answer Pairs
+* [Cross Temporal Recurrent Networks for Ranking Question Answer Pairs]()
   * AAAI Conference, New Orleans, Louisiana, February 2018
 
-* Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture
+* [Learning to Rank Question Answer Pairs with Holographic Dual LSTM Architecture]()
   * SIGIR Conference, Tokyo Japan, August 2017
 
 
