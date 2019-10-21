@@ -15,7 +15,7 @@ I mainly work on applications involving natural language understanding, question
 *Update: I have defended my PhD thesis and will join Google as a Research Scientist @ Mountain View in November.*
 
 ## Latest News
-* 16.10.19 - Invited to serve as reviewer and mentor for [New in ML workshop](https://nehzux.github.io/NewInML2019/) at NeurIPS 2019.
+* 16.10.19 - Invited to serve as reviewer and mentor for the [New in ML workshop](https://nehzux.github.io/NewInML2019/) held at NeurIPS 2019.
 * 10.10.19 - Paper with [Lucas](https://sites.google.com/view/lucasvinhtran) accepted to WSDM 2020.
 * 11.09.19 - Successfully passed my oral defense!
 * 04.09.19 - 2 papers accepted to NeurIPS 2019.
