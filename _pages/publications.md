@@ -7,6 +7,17 @@ author_profile: true
 
 You are viewing full chronological publication list.
 
+# Year of 2020
+
+<b> [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]() </b>  <br>
+Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
+<i> Proceedings of WSDM 2020 </i> <br>
+<img src="/images/ntu.png" width="60" height="30">
+<img src="/images/unsw.png" width="60" height="30"><br>
+<img src="/images/i2r.png" width="60" height="30"> <br>
+[PDF]() | <br>
+
+
 # Year of 2019
 
 <b> [Compositional De-Attention Networks]() </b> <br>

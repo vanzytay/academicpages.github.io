@@ -27,5 +27,9 @@ author_profile: true
 
 
 ## Workshop
-1. AAAI 2019 RecNLP Program Committee
-2. \*Sem Program Committee
+1. NeurIPS 2019 New in ML workshop
+2. AAAI 2019 RecNLP Program Committee
+3. \*Sem Program Committee
+
+## Mentor
+1. NeurIPS 2019 New in ML workshop
