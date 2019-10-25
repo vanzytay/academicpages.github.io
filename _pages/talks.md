@@ -8,6 +8,14 @@ author_profile: true
 ## Talks
 
 * [Neural Attention for Text-based Reasoning and Recommendation]()
+  * DSO National Labs, Singapore
+  * Oct 2019, <i> Host: Gibson Lee and Dr Chieu Hai Leong </i>
+
+* [Compositional De-Attention Networks]()
+  * A\*STAR, CHEEM, Singapore
+  * Sep 2019, <i> Host: Dr Cheston Tan </i>
+
+* [Neural Attention for Text-based Reasoning and Recommendation]()
   * Amazon AI, Amazon Web Services, Palo Alto
   * May 2019, <i> Host: Dr Alex J. Smola </i>
 
