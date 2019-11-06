@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am joining [Google](https://ai.google/) as a Research Scientist in November 2019, based in Mountain View. I am presently a fourth year PhD candidate at Nanyang Technological University, Singapore. I have defended my PhD thesis as of September 2019 and expecting to be conferred in November.
+I am a Research Scientist at [Google](https://ai.google/) based in Mountain View. Previously, I obtained my PhD from Nanyang Technological University, Singapore. 
 
 I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://people.csail.mit.edu/tuanluu/) (previously @ A\*Star, now at MIT CSAIL) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. Before pursuing a PhD, I earned my Bachelors in Engineering (Computer Science) from NTU, Singapore in 2015.
 

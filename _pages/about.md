@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a fourth-year PhD candidate @ Nanyang Technological University (NTU) Singapore. My research interests are mainly in the areas of Deep Learning and Natural Language Processing. I am interested in designing efficient and effective neural models for language understanding.
+Hi! I am a Research Scientist at Google. My research interests are mainly in the areas of Deep Learning and Natural Language Processing.
 
-I mainly work on applications involving natural language understanding, question answering and information retrieval. Previously, I was affiliated with the Baidu-I2R Centre at the Institute for Infocomm Research as an A\*Star scholar.
+I obtained my PhD (Computer Science) at Nanyang Technological University, Singapore working on neural networks for NLP and Information Retrieval.
 
-*Update: I have defended my PhD thesis and will join Google as a Research Scientist @ Mountain View in November.*
 
 ## Latest News
+* 04.11.19 - Started work at Google.
 * 23.10.19 - Invited talk at DSO Labs, Singapore.
 * 16.10.19 - Invited to serve as reviewer and mentor for the [New in ML workshop](https://nehzux.github.io/NewInML2019/) held at NeurIPS 2019.
 * 10.10.19 - Paper with [Lucas](https://sites.google.com/view/lucasvinhtran) accepted to WSDM 2020.
