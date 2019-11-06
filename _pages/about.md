@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Scientist at Google. My research interests are mainly in the areas of Deep Learning and Natural Language Processing.
-
-I obtained my PhD (Computer Science) at Nanyang Technological University, Singapore working on neural networks for NLP and Information Retrieval.
+Hi! I am a Research Scientist at Google. I obtained my PhD (Computer Science) and B.Eng (Computer Science) at Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
 
 
 ## Latest News
