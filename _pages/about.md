@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Scientist at Google. I obtained my PhD (Computer Science) and B.Eng (Computer Science) at Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
+Hi! I am a Research Scientist at Google. I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
 
 
 ## Latest News
+* 10.11.19 - Paper with [Shuohang](https://sites.google.com/site/shuohangsite/) accepted to AAAI 2020.
 * 04.11.19 - Started work at Google.
 * 23.10.19 - Invited talk at DSO Labs, Singapore.
 * 16.10.19 - Invited to serve as reviewer and mentor for the [New in ML workshop](https://nehzux.github.io/NewInML2019/) held at NeurIPS 2019.
