@@ -11,7 +11,7 @@ You are viewing full chronological publication list.
 
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
-<i> Proceedings of AAAI 2020 </i>
+<i> Proceedings of AAAI 2020 </i> <br>
 <!-- <i> Proceedings of WSDM 2020 </i> <br>
 <img src="/images/ntu.png" width="60" height="30">
 <img src="/images/unsw.png" width="60" height="30">
@@ -21,7 +21,7 @@ Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 
 <b> [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]() </b>  <br>
 Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
-<i> Proceedings of WSDM 2020 </i>
+<i> Proceedings of WSDM 2020 </i> <br>
 <!-- <i> Proceedings of WSDM 2020 </i> <br>
 <img src="/images/ntu.png" width="60" height="30">
 <img src="/images/unsw.png" width="60" height="30">
