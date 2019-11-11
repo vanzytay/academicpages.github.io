@@ -10,7 +10,7 @@ You are viewing full chronological publication list.
 # Year of 2020
 
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
-Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang<br>
+Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 <!-- <i> Proceedings of WSDM 2020 </i> <br>
 <img src="/images/ntu.png" width="60" height="30">
 <img src="/images/unsw.png" width="60" height="30">
