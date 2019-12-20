@@ -10,6 +10,11 @@ You are viewing full chronological publication list.
 # Year of 2020
 
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
+Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu<br>
+<i> Proceedings of ICLR 2020 </i> <br>
+[PDF]() | <br>
+
+<b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 <i> Proceedings of AAAI 2020 </i> <br>
 <!-- <i> Proceedings of WSDM 2020 </i> <br>
