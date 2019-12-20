@@ -9,10 +9,10 @@ You are viewing full chronological publication list.
 
 # Year of 2020
 
-<b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
+<b> [Jacobian Adversarially Regularized Networks for Robustness]() </b>  <br>
 Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu<br>
 <i> Proceedings of ICLR 2020 </i> <br>
-[PDF]() | <br>
+[PDF](https://openreview.net/forum?id=Hke0V1rKPS) | <br>
 
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
