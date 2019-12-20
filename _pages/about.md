@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at Google. I obtained my PhD (Computer Science) an
 
 
 ## Latest News
+* 19.12.19 - Paper with [Alvin](https://www.linkedin.com/in/alvin-chan-03692240/) accepted to ICLR 2020.
 * 09.12.19 - Invited to serve as program committee of ICML 2020 and ACL 2020.
 * 10.11.19 - Paper with [Shuohang](https://sites.google.com/site/shuohangsite/) accepted to AAAI 2020.
 * 04.11.19 - Started work at Google.
