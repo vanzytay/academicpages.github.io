@@ -10,7 +10,7 @@ You are viewing full chronological publication list.
 # Year of 2020
 
 <b> [Jacobian Adversarially Regularized Networks for Robustness]() </b>  <br>
-Alvin Chan, Yi Tay, Yew Soon Ong, Jie Fu<br>
+Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 <i> Proceedings of ICLR 2020 </i> <br>
 [PDF](https://openreview.net/forum?id=Hke0V1rKPS) | <br>
 
