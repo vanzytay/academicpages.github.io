@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Scientist at Google. I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
+Hi! I am a Research Scientist at Google working on Natural Language Processing and Machine Learning Research.
+
+I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
 
 
 ## Latest News
-* 19.12.19 - Paper with [Alvin](https://www.linkedin.com/in/alvin-chan-03692240/) accepted to ICLR 2020.
+* 19.12.19 - Paper with [Alvin](https://www.alvinchan.io/) accepted to ICLR 2020.
 * 09.12.19 - Invited to serve as program committee of ICML 2020 and ACL 2020.
 * 10.11.19 - Paper with [Shuohang](https://sites.google.com/site/shuohangsite/) accepted to AAAI 2020.
 * 04.11.19 - Started work at Google.
