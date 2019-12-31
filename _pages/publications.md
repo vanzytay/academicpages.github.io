@@ -305,6 +305,13 @@ Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam T
 <img src="/images/ntu.png" width="60" height="30"> <br> -->
 [PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
 
+# Book Chapters
+
+<b> [Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html) </b> <br.
+Shuai Zhang, Aston Zhang, <b>Yi Tay</b. <br.
+<i> [Book Title: Dive into Deep Learning](https://d2l.ai/) </i>
+Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. <br>
+
 # Thesis and Dissertation
 <b> [Neural Architectures for Natural Language Understanding]() </b> <br>
 <b> Yi Tay </b> <br>
