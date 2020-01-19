@@ -14,6 +14,7 @@ I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang T
 
 
 ## Latest News
+* 19.01.20 - Invited to serve a program committee of SIGIR 2020.
 * 19.12.19 - Paper with [Alvin](https://www.alvinchan.io/) accepted to ICLR 2020.
 * 09.12.19 - Invited to serve as program committee of ICML 2020 and ACL 2020.
 * 10.11.19 - Paper with [Shuohang](https://sites.google.com/site/shuohangsite/) accepted to AAAI 2020.
