@@ -14,17 +14,20 @@ author_profile: true
 5. *EMNLP* - 2019, 2018 (Best Reviewer Award)
 6. *NAACL* - 2019
 7. *WSDM* - 2020
+8. *SIGIR* - 2020
 8. *AAAI* - 2020
 9. *ACM MM* - 2019
 
 ## Journal (Invited Reviewer)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
 2. IEEE Transactions on Neural Networks (TTNLS)
-3. ACM Transactions on Information Systems (TOIS)
-4. Neurocomputing
-5. Information Processing and Management (IPM)
-6. Knowledge and Information Systems (KAIS)
-7. IEEE Access
+3. IEEE Transactions on Low Resource and Asian Languages
+4. ACM Transactions on Information Systems (TOIS)
+5. Neurocomputing
+6. Elsevier Information Systems
+6. Information Processing and Management (IPM)
+7. Knowledge and Information Systems (KAIS)
+8. IEEE Access
 
 
 ## Workshop
