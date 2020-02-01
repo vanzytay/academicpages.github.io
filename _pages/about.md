@@ -14,6 +14,7 @@ I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang T
 
 
 ## Latest News
+* 31.01.20 - Invited to serve as program committee of KDD 2020 (research track).
 * 19.01.20 - Invited to serve as program committee of SIGIR 2020.
 * 19.12.19 - Paper with [Alvin](https://www.alvinchan.io/) accepted to ICLR 2020.
 * 09.12.19 - Invited to serve as program committee of ICML 2020 and ACL 2020.
