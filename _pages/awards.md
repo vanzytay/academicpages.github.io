@@ -15,6 +15,7 @@ author_profile: true
 6. EMNLP 2018 Best Reviewer Award (Top 7% reviewers) - November 2018
 7. NeurIPS 2018 Travel Award - December 2018
 8. ACL 2019 Scholarship - June 2019
+9. WSDM 2020 Best Paper Award Runner Up - Feb 2020
 
 ## Competitions
 1. CIKM AnalytiCup 2017 (Lazada Product Quality - Challenge) - Honorable Mention (5th place) - September 2017
