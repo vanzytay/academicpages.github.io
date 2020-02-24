@@ -15,7 +15,7 @@ Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 [PDF](https://openreview.net/forum?id=Hke0V1rKPS) | <br>
 
 <b> [What it Thinks is Important is Important: Robustness Transfers Through Input Gradients]() </b>  <br>
-Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
+Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong<br>
 <i> Proceedings of CVPR 2020 </i> <br>
 [PDF](https://arxiv.org/abs/1912.05699) | <br>
 
