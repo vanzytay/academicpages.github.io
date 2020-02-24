@@ -14,6 +14,20 @@ Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 <i> Proceedings of ICLR 2020 </i> <br>
 [PDF](https://openreview.net/forum?id=Hke0V1rKPS) | <br>
 
+<b> [What it Thinks is Important is Important: Robustness Transfers Through Input Gradients]() </b>  <br>
+Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
+<i> Proceedings of CVPR 2020 </i> <br>
+[PDF](https://arxiv.org/abs/1912.05699) | <br>
+
+<b> [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]() </b>  <br>
+Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
+<i> Proceedings of WSDM 2020 </i> <b> (Best Paper Award Runner-Up) </b> <br>
+<!-- <i> Proceedings of WSDM 2020 </i> <br>
+<img src="/images/ntu.png" width="60" height="30">
+<img src="/images/unsw.png" width="60" height="30">
+<img src="/images/i2r.png" width="60" height="30"> <br> -->
+[PDF]() | <br>
+
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 <i> Proceedings of AAAI 2020 </i> <br>
@@ -24,14 +38,7 @@ Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 [PDF]() | <br>
 
 
-<b> [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]() </b>  <br>
-Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
-<i> Proceedings of WSDM 2020 </i> <b> (Best Paper Award Runner-Up) </b> <br>
-<!-- <i> Proceedings of WSDM 2020 </i> <br>
-<img src="/images/ntu.png" width="60" height="30">
-<img src="/images/unsw.png" width="60" height="30">
-<img src="/images/i2r.png" width="60" height="30"> <br> -->
-[PDF]() | <br>
+
 
 
 # Year of 2019
