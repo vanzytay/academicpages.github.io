@@ -14,6 +14,7 @@ I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang T
 
 
 ## Latest News
+* 26.02.20 - Serving as Area Chair of EMNLP 2020 (QA track).
 * 23.02.20 - Paper with [Alvin](https://www.alvinchan.io/) accepted to CVPR 2020.
 * 05.02.20 - Our WSDM 2020 paper got the Best Paper Award runner-up! 
 * 31.01.20 - Invited to serve as program committee of KDD 2020 (research track).
