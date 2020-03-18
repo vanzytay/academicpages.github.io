@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-I am a Research Scientist at [Google](https://ai.google/) based in Mountain View. Previously, I obtained my PhD from Nanyang Technological University, Singapore. 
+I am a Research Scientist at [Google AI](https://ai.google/) based in Mountain View, California. I am working on Natural Language Processing and Machine Learning research. 
 
-I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://people.csail.mit.edu/tuanluu/) (previously @ A\*Star, now at MIT CSAIL) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. Before pursuing a PhD, I earned my Bachelors in Engineering (Computer Science) from NTU, Singapore in 2015.
+Previously, I obtained my PhD from Nanyang Technological University, Singapore. I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://people.csail.mit.edu/tuanluu/) (previously @ A\*Star, now at MIT CSAIL) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. I was also a visiting research scientist at A\*STAR from June 2019 to October 2019. Before pursuing a PhD, I earned my Bachelors in Engineering (Computer Science) from NTU, Singapore in 2015.
 
-I also obtained an [associate diploma](https://www.trinitycollege.com/site/?id=1587) in classical piano performance from Trinity College London in 2012.
+Fun Fact: I also obtained an [associate diploma](https://www.trinitycollege.com/site/?id=1587) in classical piano performance from Trinity College London in 2012.
 
 ##  Education
 
@@ -21,10 +21,6 @@ I also obtained an [associate diploma](https://www.trinitycollege.com/site/?id=1
     * Nanyang Technological University, Singapore
 
 Full CV is available upon request.
-
-<!--
-## Collaborators
-I am fortunate to have collaborated with the following researchers (*in no particular order*): Luu Anh Tuan (Postdoc, MIT CSAIL), Aston Zhang (Senior Applied Scientist, Amazon AI), Jie Fu (Postdoc, MILA, IVADO), Jinfeng Rao (Research Scientist, Facebook AI), Xingdi Yuan (Senior Research Engineer, Microsoft Research Montreal), Shuai Zhang (University of New South Wales, Australia), Shuohang Wang (Microsoft Research AI, Redmond), Zhe Zhao (Google), Minh C Phan (NTU, Singapore), Lucas Vinh Tran (NTU, Singapore), Alvin Chan (NTU, Singapore). -->
 
 
 ## Personal
