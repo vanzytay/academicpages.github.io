@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Scientist at Google working on Natural Language Processing and Machine Learning Research.
-
-I obtained my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
+Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natural Language Processing and Machine Learning Research. I am currently based in Mountain View, California. Previously, I earned my PhD (Computer Science) and B.Eng (Computer Science) from Nanyang Technological University (NTU), Singapore in 2019 and 2015 respectively. During my PhD, I worked on deep learning, natural language processing and artificial intelligence.
 
 
 ## Latest News
