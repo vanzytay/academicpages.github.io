@@ -9,6 +9,22 @@ You are viewing full chronological publication list.
 
 # Year of 2020
 
+<b> [Reverse Engineering Configurations of Neural Text Generation Models]() </b>  <br>
+<b>Yi Tay</b>, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler, Andrew Tomkins
+<i> Proceedings of ACL 2020 (Short Paper) </i> <br>
+[PDF]() | <br>
+
+<b> [Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences]() </b>  <br>
+<b>Yi Tay</b>, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu and Christopher Pal - 
+<i> Proceedings of ACL 2020 (Short Paper) </i> <br>
+[PDF]() | <br>
+
+<b> [Interactive Machine Comprehension via Information Seeking Agents]() </b> <br>
+Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam Trischler <br>
+<i> Proceedings of ACL 2020 (Long Paper) </i> <br>
+[PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
+
+
 <b> [Jacobian Adversarially Regularized Networks for Robustness]() </b>  <br>
 Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 <i> Proceedings of ICLR 2020 </i> <br>
@@ -304,13 +320,10 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <img src="/images/ntu.png" width="60" height="30"> -->
 
 # Preprints
-<b> [Interactive Machine Comprehension via Information Seeking Agents]() </b> <br>
-Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam Trischler <br>
+<b> [Sparse SinkhorrnAttention]() </b> <br>
+<b>Yi Tay</b>, Dara Bahri, Liu Yang, Donald Metzler, Da-Cheng Juan <br>
 <i> arXiV preprint </i> <br>
-<!-- <img src="/images/microsoft.png" width="60" height="30">
-<img src="/images/mila.png" width="60" height="30">
-<img src="/images/ntu.png" width="60" height="30"> <br> -->
-[PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
+[PDF](https://arxiv.org/abs/2002.11296) |
 
 # Book Chapters
 
