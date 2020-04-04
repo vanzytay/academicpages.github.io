@@ -10,12 +10,12 @@ You are viewing full chronological publication list.
 # Year of 2020
 
 <b> [Reverse Engineering Configurations of Neural Text Generation Models]() </b>  <br>
-<b>Yi Tay</b>, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler, Andrew Tomkins
+<b>Yi Tay</b>, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler, Andrew Tomkins <br>
 <i> Proceedings of ACL 2020 (Short Paper) </i> <br>
 [PDF]() | <br>
 
 <b> [Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences]() </b>  <br>
-<b>Yi Tay</b>, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu and Christopher Pal - 
+<b>Yi Tay</b>, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu and Christopher Pal <br>
 <i> Proceedings of ACL 2020 (Short Paper) </i> <br>
 [PDF]() | <br>
 
