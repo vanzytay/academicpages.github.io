@@ -12,6 +12,8 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 03.04.20 - 3 Papers (1 long, 2 short) accepted to ACL 2020! 
+* 01.04.20 - Serving as program committee of NeurIPS 2020 and AACL 2020. 
 * 26.02.20 - Serving as Area Chair of EMNLP 2020 (QA track).
 * 23.02.20 - Paper with [Alvin](https://www.alvinchan.io/) accepted to CVPR 2020.
 * 05.02.20 - Our WSDM 2020 paper got the Best Paper Award runner-up! 
