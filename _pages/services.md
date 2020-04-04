@@ -12,16 +12,17 @@ author_profile: true
 ## Conference (Program Committee and Reviewer)
 
 1. *ICLR* -  2020
-2. *NeurIPS* - 2019
+2. *NeurIPS* - 2020, 2019
 3. *ICML* - 2020
 4. *ACL* - 2019, 2020
 5. *EMNLP* - 2019, 2018 (Best Reviewer Award)
 6. *NAACL* - 2019
-7. *KDD* - 2020
-8. *WSDM* - 2020
-9. *SIGIR* - 2020
-10. *AAAI* - 2020
-11. *ACM MM* - 2019
+7. *AACL* - 2020
+8. *KDD* - 2020
+9. *WSDM* - 2020
+10. *SIGIR* - 2020
+11. *AAAI* - 2020
+12. *ACM MM* - 2019
 
 ## Journal (Invited Reviewer)
 1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
