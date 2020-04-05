@@ -320,7 +320,7 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <img src="/images/ntu.png" width="60" height="30"> -->
 
 # Preprints
-<b> [Sparse SinkhorrnAttention]() </b> <br>
+<b> [Sparse Sinkhorn Attention]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Liu Yang, Donald Metzler, Da-Cheng Juan <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2002.11296) |
