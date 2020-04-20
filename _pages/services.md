@@ -9,7 +9,7 @@ author_profile: true
 
 1. EMNLP 2020 (QA Track)
 
-## Conference (Program Committee and Reviewer)
+## Program Committee
 
 1. *ICLR* -  2020
 2. *NeurIPS* - 2020, 2019
@@ -24,18 +24,6 @@ author_profile: true
 11. *AAAI* - 2020
 12. *ACM MM* - 2019
 
-## Journal (Invited Reviewer)
-1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
-2. IEEE Transactions on Neural Networks (TTNLS)
-3. IEEE Transactions on Low Resource and Asian Languages
-4. ACM Transactions on Information Systems (TOIS)
-5. Neurocomputing
-6. Elsevier Information Systems
-6. Information Processing and Management (IPM)
-7. Knowledge and Information Systems (KAIS)
-8. IEEE Access
-
-
 ## Workshop
 1. NeurIPS 2019 New in ML workshop
 2. AAAI 2019 RecNLP Program Committee
@@ -43,3 +31,7 @@ author_profile: true
 
 ## Mentor
 1. NeurIPS 2019 New in ML workshop
+
+## Journals
+
+I occassionally review, when invited, for random journals like TKDE, TNNLS etc.
