@@ -29,11 +29,8 @@ author_profile: true
 2. AAAI 2019 RecNLP Program Committee
 3. \*Sem Program Committee
 
-## Mentor
-1. NeurIPS 2019 New in ML workshop
-
 ## Journals
 
 I occassionally review, when invited, for random journals like TKDE, TNNLS etc. 
 
-I used to accept most journal review requests, but in the interest of my own bandwidth, I have decided to focus on the reviewing duties at more important venues (e.g.., conferences). Currently, I only selectively review for journals when I have an unusual amount of freetime. 
+I used to accept most journal review requests, but in the interest of my own bandwidth, I have decided to focus on the reviewing duties at more important venues (e.g.., conferences). Currently, I only selectively review for journals when I have an unusual amount of freetime. I am sorry in advance if I decline any journal review requests! 
