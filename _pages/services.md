@@ -34,4 +34,6 @@ author_profile: true
 
 ## Journals
 
-I occassionally review, when invited, for random journals like TKDE, TNNLS etc.
+I occassionally review, when invited, for random journals like TKDE, TNNLS etc. 
+
+I used to accept most journal review requests, but in the interest of my own bandwidth, I have decided to focus on the reviewing duties at more important venues (e.g.., conferences). Currently, I only selectively review for journals when I have an unusual amount of freetime. 
