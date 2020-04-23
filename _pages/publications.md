@@ -24,7 +24,6 @@ Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam T
 <i> Proceedings of ACL 2020 (Long Paper) </i> <br>
 [PDF](https://arxiv.org/abs/1908.10449) | [Code](https://github.com/xingdi-eric-yuan/imrc_public)
 
-
 <b> [Jacobian Adversarially Regularized Networks for Robustness]() </b>  <br>
 Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 <i> Proceedings of ICLR 2020 </i> <br>
@@ -38,19 +37,16 @@ Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong<br>
 <b> [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems]() </b>  <br>
 Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
 <i> Proceedings of WSDM 2020 </i> <b> (Best Paper Award Runner-Up) </b> <br>
-<!-- <i> Proceedings of WSDM 2020 </i> <br>
-<img src="/images/ntu.png" width="60" height="30">
-<img src="/images/unsw.png" width="60" height="30">
-<img src="/images/i2r.png" width="60" height="30"> <br> -->
+[PDF]() | <br>
+
+<b> [Choppy: Cut Transformers for Ranked List Truncation]() </b>  <br>
+Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Andrew Tomkins <br>
+<i> Proceedings of SIGIR 2020 (Short Paper) </i> <br>
 [PDF]() | <br>
 
 <b> [Multi-level Head-wise Match and Aggregation in Transformer for Textual Sequence Matching]() </b>  <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 <i> Proceedings of AAAI 2020 </i> <br>
-<!-- <i> Proceedings of WSDM 2020 </i> <br>
-<img src="/images/ntu.png" width="60" height="30">
-<img src="/images/unsw.png" width="60" height="30">
-<img src="/images/i2r.png" width="60" height="30"> <br> -->
 [PDF]() | <br>
 
 
