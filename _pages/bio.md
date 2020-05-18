@@ -36,5 +36,5 @@ Please adhere to the following guidelines when contacting me. :)
 
 * Preferred mode of contact is my personal email at ytay017@gmail.com. LinkedIn message is also fine. Do follow me on Twitter at [ytay017](https://twitter.com/ytay017). 
 * Reach out to me if you would like to chat. Also, if you happen to be a Singaporean (or in Singapore) looking to start a PhD or do research in AI and machine learning, feel free to contact me for advice. I'm happy to chat. However, please **do not** add me as a friend on Facebook if I do not know you in person! I will not accept unless I know you in person. I also stopped accepting requests on Instagram. 
-* All released source code can be found on my [github](https://github.com/vanzytay). Stuff that are not already on my github have no planned release. I also have a full time job not and do not plan on providing customer service or digging up old code. 
+* All released source code can be found on my [github](https://github.com/vanzytay). Stuff that are not already on my github have no planned release. I also have a full time job and **do not** plan on providing customer service or digging up old code. 
 * In the interest of my own time, sanity and work commitments I may not reply (promptly or altogether) to misc email. 
