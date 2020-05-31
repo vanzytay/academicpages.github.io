@@ -39,14 +39,14 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 * 16.05.19  - Serving as program committee for EMNLP 2019.
 * 14.05.19 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!
 * 10.05.19 - Paper accepted to IJCAI 2019.
-* 14.04.19 - Paper with Lucas accepted to SIGIR 2019.
+* 14.04.19 - Paper accepted to SIGIR 2019.
 * 02.03.19 - Invited to serve as program committee (reviewer) for NeurIPS 2019.
 * 07.02.19 - Invited to serve as program committee for ACL 2019 and \*Sem 2019.
 * 04.12.18 - Presented two papers at NeurIPS in Montreal!
 * 16.11.18 - Serving as program committee of NAACL 2019.
 * 01.11.18 - Paper accepted to AAAI 2019.
 * 31.10.18 - Attended EMNLP 2018 in Brussels.
-* 11.10.18 - Survey on Deep Recommender Systems with [Shuai](https://sites.google.com/view/shuaizhang/home) accepted to ACM Computing Surveys.
+* 11.10.18 - Survey on Deep Recommender Systems accepted to ACM Computing Surveys.
 * 10.10.18 - Received best reviewer award for EMNLP 2018.
 * 05.09.18 - 2 Papers accepted to NeurIPS 2018!
 * 10.08.18 - 4 full papers accepted to EMNLP 2018.
