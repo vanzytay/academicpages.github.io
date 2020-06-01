@@ -321,7 +321,7 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <img src="/images/ntu.png" width="60" height="30"> -->
 
 # Preprints
-<b> [Synthesizer: Rethinking Self-Attentionn in Transformer Models]() </b> <br>
+<b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2005.00743) |
