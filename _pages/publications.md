@@ -9,6 +9,11 @@ You are viewing full chronological publication list.
 
 # Year of 2020
 
+<b> [Sparse Sinkhorn Attention]() </b> <br>
+<b>Yi Tay</b>, Dara Bahri, Liu Yang, Donald Metzler, Da-Cheng Juan <br>
+<i> Proceedings of ICML 2020 </i> <br>
+[PDF](https://arxiv.org/abs/2002.11296) | <br>
+
 <b> [Reverse Engineering Configurations of Neural Text Generation Models]() </b>  <br>
 <b>Yi Tay</b>, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler, Andrew Tomkins <br>
 <i> Proceedings of ACL 2020 (Short Paper) </i> <br>
@@ -316,10 +321,10 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <img src="/images/ntu.png" width="60" height="30"> -->
 
 # Preprints
-<b> [Sparse Sinkhorn Attention]() </b> <br>
-<b>Yi Tay</b>, Dara Bahri, Liu Yang, Donald Metzler, Da-Cheng Juan <br>
+<b> [Synthesizer: Rethinking Self-Attentionn in Transformer Models]() </b> <br>
+<b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
 <i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2002.11296) |
+[PDF](https://arxiv.org/abs/2005.00743) |
 
 # Book Chapters
 
