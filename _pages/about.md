@@ -12,8 +12,9 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 06.06.20 - Serving as program committee of WSDM 2021. 
 * 01.06.20 - Paper accepted to ICML 2020! 
-* 22.04.20 - 1 short paper is accepted to SIGIR 2020.
+* 22.04.20 - Short paper is accepted to SIGIR 2020.
 * 03.04.20 - 3 Papers (1 long, 2 short) accepted to ACL 2020! 
 * 01.04.20 - Serving as program committee of NeurIPS 2020 and AACL 2020. 
 * 26.02.20 - Serving as Area Chair of EMNLP 2020 (QA track).
@@ -21,24 +22,23 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 * 05.02.20 - Our WSDM 2020 paper got the Best Paper Award runner-up! 
 * 31.01.20 - Invited to serve as program committee of KDD 2020 (research track).
 * 19.01.20 - Invited to serve as program committee of SIGIR 2020.
-* 19.12.19 - Paper with accepted to ICLR 2020.
+* 19.12.19 - Paper accepted to ICLR 2020.
 * 09.12.19 - Invited to serve as program committee of ICML 2020 and ACL 2020.
-* 10.11.19 - Paper with accepted to AAAI 2020.
+* 10.11.19 - Paper accepted to AAAI 2020.
 * 04.11.19 - Started work at Google.
 * 23.10.19 - Invited talk at DSO Labs, Singapore.
-* 16.10.19 - Invited to serve as reviewer and mentor for the [New in ML workshop](https://nehzux.github.io/NewInML2019/) held at NeurIPS 2019.
+* 16.10.19 - Invited to serve as reviewer & mentor for the NeurIPS'19 [New in ML workshop](https://nehzux.github.io/NewInML2019).
 * 10.10.19 - Paper accepted to WSDM 2020.
 * 11.09.19 - Successfully passed my oral defense!
 * 04.09.19 - 2 papers accepted to NeurIPS 2019.
-* 13.08.19 - Paper with accepted to EMNLP 2019.
+* 13.08.19 - Paper accepted to EMNLP 2019.
 * 07.08.19 - Invited to serve as Program Committee of AAAI 2020.
 * 31.07.19 - Invited to serve as Program Committee of WSDM 2020.
 * 26.07.19 - Invited to serve as PC/Reviewer of ICLR 2020.
-* 30.06.19 - Tensor2Tensor implementation of Quaternion Transformers is released on [Github](https://github.com/vanzytay/QuaternionTransformers).
 * 21.06.19 - Awarded ACL scholarship. See you in Florence.  
 * 10.06.19 - Submitted my PhD thesis!
-* 16.05.19  - Serving as program committee for EMNLP 2019.
-* 14.05.19 -  4 papers (3 Long, 1 Short) accepted to ACL 2019!
+* 16.05.19 - Serving as program committee for EMNLP 2019.
+* 14.05.19 - 4 papers (3 Long, 1 Short) accepted to ACL 2019!
 * 10.05.19 - Paper accepted to IJCAI 2019.
 * 14.04.19 - Paper accepted to SIGIR 2019.
 * 02.03.19 - Invited to serve as program committee (reviewer) for NeurIPS 2019.
