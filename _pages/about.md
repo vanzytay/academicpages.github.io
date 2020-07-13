@@ -12,6 +12,8 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 12.07.20 - Invited to serve as program committee of ICLR 2021.
+* 06.07.20 - Hosted Birds-of-Feather / Mentoring Sessions at virtual ACL 2020. 
 * 27.06.20 - My thesis won the outstanding/best thesis award at NTU SCSE.
 * 06.06.20 - Serving as program committee of WSDM 2021. 
 * 01.06.20 - Paper accepted to ICML 2020! 
