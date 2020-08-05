@@ -11,7 +11,7 @@ author_profile: true
 2. NTU SCSE Outstanding (Best) PhD thesis Award - June 2020
 3. A*Star Graduate Scholarship (AGS) - August 2017 - June 2019
 4. EMNLP 2018 Best Reviewer Award (Top 7% reviewers) - November 2018
-5. Conference Scholarships and travel grants (SIGIR'17,ICWSM'18,KDD'18,EMNLP'18,NeurIPS'18,ACL'19)
+5. Assorted Conference Scholarships (SIGIR'17, ICWSM'18, KDD'18, EMNLP'18, NeurIPS'18, ACL'19)
 
 ## Competitions
 1. CIKM AnalytiCup 2017 (Lazada Product Quality - Challenge) - Honorable Mention (4/5th place) - September 2017
