@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+* [Transformer Models - Recent Advances and New Perspectives]()
+  * AI Singapore Summer School 2020 (Virtual)
+  * Aug 2020, <i> Host: Prof Bryan Low </i>
+
 * [Neural Attention for Text-based Reasoning and Recommendation]()
   * DSO National Labs, Singapore
   * Oct 2019, <i> Host: Gibson Lee and Dr Chieu Hai Leong </i>
