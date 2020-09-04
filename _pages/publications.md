@@ -7,6 +7,24 @@ author_profile: true
 
 You are viewing full chronological publication list.
 
+# Preprints
+<b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
+<b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2005.00743) |
+
+<b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
+<b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2007.05891) |
+
+<b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
+Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2008.13533) |
+
+
+
 # Year of 2020
 
 <b> [Sparse Sinkhorn Attention]() </b> <br>
@@ -53,8 +71,6 @@ Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Andrew Tomkins <br>
 Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 <i> Proceedings of AAAI 2020 </i> <br>
 [PDF]() | <br>
-
-
 
 
 
@@ -320,11 +336,6 @@ Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Bin Wu, Aixin Sun <br>
 <!-- <img src="/images/unsw.png" width="60" height="30">
 <img src="/images/ntu.png" width="60" height="30"> -->
 
-# Preprints
-<b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
-<b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
-<i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2005.00743) |
 
 # Book Chapters
 
