@@ -236,7 +236,6 @@ Minh C. Phan, Aixin Sun, <b>Yi Tay</b>, Jialong Han, Chenliang Li <br>
 <b> [Non-parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
 <i> Proceedings of AAAI 2017</i> <br>
-<!-- <img src="/images/ntu.png" width="60" height="30"><img src="/images/i2r.png" width="60" height="30">  <br> -->
 [PDF](https://pdfs.semanticscholar.org/fab7/7f4f239e73469af62102d91e4d5404b5d7b3.pdf) <br>
 
 <b> [Multi-task Neural Network for Non-discrete Attribute Prediction in Knowledge Graphs]() </b>  <br>
