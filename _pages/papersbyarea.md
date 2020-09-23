@@ -7,7 +7,7 @@ author_profile: true
 
 You are viewing papers by research areas
 
-## Neural Modeling (General Purpose)
+# Neural Modeling (General Purpose)
 
 <b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
@@ -40,7 +40,7 @@ You are viewing papers by research areas
 <i> Proceedings of NeurIPS 2018 </i> <br>
 [PDF](https://arxiv.org/abs/1811.09786) | [Code](https://github.com/vanzytay/NIPS2018_RCRN)<br>
 
-## Question Answering and Language Understanding
+# Question Answering and Language Understanding
 
 <b> [Interactive Machine Comprehension via Information Seeking Agents]() </b> <br>
 Xingdi Yuan, Jie Fu, Marc-Alexandre Cote, <b>Yi Tay</b>, Christopher Pal, Adam Trischler <br>
@@ -90,7 +90,7 @@ Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkin
 <i> Proceedings of ACL 2020 (Short Paper) </i> <br>
 [PDF]() | <br>
 
-## General Machine Learning 
+# General Machine Learning 
 
 <b> [Jacobian Adversarially Regularized Networks for Robustness]() </b>  <br>
 Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
