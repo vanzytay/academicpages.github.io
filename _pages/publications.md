@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You are viewing full chronological publication list.
+You are viewing full chronological publication list. View papers by subject area [here](https://vanzytay.github.io/papersbyarea).
 
 # Preprints
 <b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
