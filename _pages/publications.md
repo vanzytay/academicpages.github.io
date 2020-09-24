@@ -62,7 +62,7 @@ Lucas Vinh Tranh, <b>Yi Tay</b>, Shuai Zhang, Gao Cong, Xiaoli Li <br>
 <i> Proceedings of WSDM 2020 </i> <b> (Best Paper Award Runner-Up) </b> <br>
 [PDF]() | <br>
 
-<b> [Poison Attacks against Text Daatsets with Conditional Adversarially Regularized Autoencoder]() </b>  <br>
+<b> [Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder]() </b>  <br>
 Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Aston Zhang<br>
 <i> Proceedings of EMNLP 2020 (Findings) </i> <br>
 [PDF]() | <br>
