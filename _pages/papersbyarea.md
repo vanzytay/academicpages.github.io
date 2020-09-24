@@ -7,7 +7,7 @@ author_profile: true
 
 You are viewing papers by research areas
 
-# Neural Modeling (General Purpose)
+# Deep Learning / Neural Modeling
 
 <b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
@@ -78,7 +78,7 @@ Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 [PDF](https://www.aclweb.org/anthology/D18-1238) | [Code](https://github.com/vanzytay/EMNLP18_DCU)<br>
 
 
-## Analysis
+# Analysis
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
 Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
@@ -101,6 +101,11 @@ Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Jie Fu<br>
 Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong<br>
 <i> Proceedings of CVPR 2020 </i> <br>
 [PDF](https://arxiv.org/abs/1912.05699) | <br>
+
+<b> [Poison Attacks against Text Daatsets with Conditional Adversarially Regularized Autoencoder]() </b>  <br>
+Alvin Chan, <b>Yi Tay</b>, Yew Soon Ong, Aston Zhang<br>
+<i> Proceedings of EMNLP 2020 (Findings) </i> <br>
+[PDF]() | <br>
 
 # Information Retrieval
 
@@ -172,7 +177,6 @@ Shuai Zhang, Lina Yao, Aixin Sun, <b>Yi Tay</b> <br>
 <i> Proceedings of KDD 2018 (Oral) </i> <br>
 [PDF](https://arxiv.org/abs/1801.09251) | [Code](https://github.com/vanzytay/KDD2018_MPCN)<br>
 
-
 <b> [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking]() </b>  <br>
 <b>Yi Tay</b>, Anh Tuan Luu, Siu Cheung Hui <br>
 <i> Proceedings of WWW 2018  </i> <br>
@@ -216,7 +220,7 @@ Minh C. Phan, Aixin Sun, <b>Yi Tay</b> <br>
 <i> Proceedings of CIKM 2017</i> <br>
 [PDF](https://dl.acm.org/citation.cfm?id=3132936)<br>
 
-## Knowledge and Entities
+# Knowledge and Entities
 
 <b> [Quaternion Knowledge Graph Embedding]() </b> <br>
 Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Qi Liu <br>
