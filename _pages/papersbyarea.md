@@ -82,7 +82,7 @@ Shuohang Wang, Yunshi Lan, <b>Yi Tay</b>, Jing Jiang, Jingjing Liu<br>
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
 Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
-<i> arXiV preprint </i> <br>
+<i> Proceedings of WSDM 2021 </i> <br>
 [PDF](https://arxiv.org/abs/2008.13533) |
 
 <b> [Reverse Engineering Configurations of Neural Text Generation Models]() </b>  <br>
