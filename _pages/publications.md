@@ -18,9 +18,11 @@ You are viewing full chronological publication list. View papers by subject area
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2007.05891) |
 
+# Year of 2021
+
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
 Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
-<i> arXiV preprint </i> <br>
+<i> Proceedings of WSDM 2021 </i> <br>
 [PDF](https://arxiv.org/abs/2008.13533) |
 
 
