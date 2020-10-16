@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 16.10.20 - Paper accepted to WSDM 2021.
 * 14.09.20 - Our [Efficient Transformers Survey](https://arxiv.org/abs/2009.06732) is out on arxiv.
 * 14.09.20 - Paper accepted to EMNLP 2020 (Findings).
 * 04.08.20 - Gave an invited talk at AI SG Summer School 2020.
