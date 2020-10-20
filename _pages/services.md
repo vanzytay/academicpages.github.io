@@ -32,5 +32,6 @@ author_profile: true
 ## Journals
 
 1. Standing reviewer of TACL
+2. Random IEEE journals (TKDE or TNNLS?)
 
 Note: I am recently very busy and plan to decline all journal review invitations (with a few exceptions). 
