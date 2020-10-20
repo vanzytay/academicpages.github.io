@@ -19,9 +19,9 @@ author_profile: true
 6. *NAACL* - 2019
 7. *AACL* - 2020
 8. *KDD* - 2020
-9. *WSDM* - 2020
+9. *WSDM* - 2021, 2020
 10. *SIGIR* - 2020
-11. *AAAI* - 2020
+11. *AAAI* - 2021,2020
 12. *ACM MM* - 2019
 
 ## Workshop
@@ -31,6 +31,6 @@ author_profile: true
 
 ## Journals
 
-I occassionally review, when invited, for random journals like TKDE, TNNLS etc. 
+1. Standing reviewer of TACL
 
-I used to accept most journal review requests, but in the interest of my own bandwidth, I have decided to focus on the reviewing duties at more important venues (e.g.., conferences). Currently, I only selectively review for journals when I have an unusual amount of freetime. I am sorry in advance if I decline any journal review requests! 
+Note: I am recently very busy and plan to decline all journal review invitations (with a few exceptions). 
