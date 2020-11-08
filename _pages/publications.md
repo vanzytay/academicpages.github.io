@@ -12,6 +12,7 @@ You are viewing full chronological publication list. View papers by subject area
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2005.00743) |
+Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
 <b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
 <b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
