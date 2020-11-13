@@ -8,6 +8,13 @@ author_profile: true
 You are viewing full chronological publication list. View papers by subject area [here](https://vanzytay.github.io/papersbyarea).
 
 # Preprints
+
+<b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
+<b>Yi Tay</b>, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2011.04006) |
+Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
+
 <b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
 <i> arXiV preprint </i> <br>
