@@ -359,6 +359,13 @@ Shuai Zhang, Aston Zhang, <b>Yi Tay</b> <br>
 <i> [Book Title: Dive into Deep Learning](https://d2l.ai/) </i> <br>
 Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola <br>
 
+<b> [Deep Neural Networks Based Recommender Systems]() </b> <br>
+Shuai Zhang, <b>Yi Tay</b>, Lina Yao, Aixin Sun, Ce Zhang <br>
+<i> [The 3rd Edition of the Recommender Systems Handbook (Springer)]() </i> <br>
+Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. <br>
+
+
+
 # Thesis and Dissertation
 <b> [Neural Architectures for Natural Language Understanding]() </b> <br>
 <b> Yi Tay </b> <br>
