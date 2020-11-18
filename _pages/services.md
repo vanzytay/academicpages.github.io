@@ -8,6 +8,7 @@ author_profile: true
 ## Area Chair
 
 1. EMNLP 2020 (QA Track)
+2. NAACL 2021 (IR track)
 
 ## Program Committee
 
