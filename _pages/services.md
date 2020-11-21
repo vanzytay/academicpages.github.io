@@ -12,18 +12,10 @@ author_profile: true
 
 ## Program Committee
 
-1. *ICLR* -  2020
-2. *NeurIPS* - 2020, 2019
-3. *ICML* - 2020
-4. *ACL* - 2019, 2020
-5. *EMNLP* - 2019, 2018 (Best Reviewer Award)
-6. *NAACL* - 2019
-7. *AACL* - 2020
-8. *KDD* - 2020
-9. *WSDM* - 2021, 2020
-10. *SIGIR* - 2020
-11. *AAAI* - 2021,2020
-12. *ACM MM* - 2019
+1. **2021**: ICLR, WSDM, SIGIR, AAAI
+2. **2020**: ICLR, NeurIPS, ICML, ACL, WSDM, SIGIR, KDD, AACL, AAAI
+3. **2019**: NeurIPS, ACL, EMNLP, NAACL, ACM MM 
+4. **2018**: EMNLP (Best Reviewer Award) 
 
 ## Workshop
 1. NeurIPS 2019 New in ML workshop
