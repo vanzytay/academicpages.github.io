@@ -10,13 +10,13 @@ You are viewing full chronological publication list. View papers by subject area
 # Preprints
 
 <b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
-<b>Yi Tay*</b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
+<b> Yi Tay* </b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2011.04006) |
 Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
 
 <b> [Efficient Transformers: A Survey]()</b> <br>
-<b> Yi Tay </b> Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
+<b> Yi Tay </b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDf](https://arxiv.org/abs/2009.06732) | 
 
