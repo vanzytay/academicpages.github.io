@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am a Research Scientist at [Google AI](https://ai.google/) based in Mountain View, California. I am working on Natural Language Processing and Machine Learning research. You can find my Google Research homepage [here](https://research.google/people/106722/).
+I am a Research Scientist at [Google AI](https://ai.google/) based in Mountain View, California. I am working on Natural Language Processing and Machine Learning research. I'm particularly interested in neural modeling, deep learning and attention models. You can find my Google Research homepage [here](https://research.google/people/106722/).
 
 Previously, I obtained my PhD in Computer Science from NTU, Singapore. I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://people.csail.mit.edu/tuanluu/) (previously @ A\*Star, now at MIT CSAIL) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. 
 
@@ -16,7 +16,9 @@ For a brief transition period, I was also a visiting research scientist at A\*ST
 
 I am fortunate to have won best paper award (runner-up) at WSDM 2020, along with several prizes at data science competitions such as CIKM Cup 2016 (1st place) and 2017 (4th place). I also won first place at CVPR VQA Challenge 2017. 
 
-Pertaining to research, I largely identify with the NeurIPS/ACL/EMNLP communities although I also publish frequently in Information Retrieval and Data Mining conferences (WSDM/KDD/WWW etc). I have also served as a regular program committee to almost all top tier conferences these areas. I also served as Area Chair for EMNLP 2020.
+Pertaining to research, I largely identify with the NeurIPS/ACL/EMNLP communities although I also publish frequently in Information Retrieval and Data Mining conferences (WSDM/KDD/WWW etc). I have also served as a regular program committee to almost all top tier conferences these areas and also Area Chair for top conferences such as EMNLP and NAACL.
+
+I am also a chapter co-author of the [Dive into Deep Learning textbook](https://d2l.ai/) which is adopted in 140 universities and 35 countries. I am also a chapter co-author of the Springer Recommender Systems Handbook (3rd Edition). 
 
 Fun Fact: I also obtained an [associate diploma](https://www.trinitycollege.com/site/?id=1587) in classical piano performance from Trinity College London in 2012.
 
