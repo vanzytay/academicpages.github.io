@@ -45,9 +45,9 @@ Full CV is available upon request.
 
 ## Contact 
 
-Some useful tips when contacting me. :) Feel free to reach out. 
-
 * Preferred mode of contact is my personal email at [ytay017@gmail.com](ytay017@gmail.com). LinkedIn message is also fine. Please follow me on Twitter at [ytay017](https://twitter.com/ytay017). 
-* Feel free to reach out to me if you would like to chat. Also, if you happen to be a Singaporean (or in Singapore) looking to start a PhD or do research in AI and machine learning, feel free to contact me for advice. I'm happy to chat.
+* For some reason, I get a lot of emails/dms about pursuing a PhD in Singapore and/or soliciting advice for PhD students. If you are (or wish to) do a PhD in ML/AI/NLP in Singapore and are not sure of what to do (i.e., need advice, not sure which advisor to pick or just want to chat about research etc.), please feel free to drop me an email. I may be able to help with recommendations/advice/misc. 
+* Regarding jobs/intern positions at where I currently work, note that I **will not** refer you if I have not worked with you before. :/
 * All released source code can be found on my [github](https://github.com/vanzytay). Stuff that are not already on my github have no planned release. I also have a full time job and **do not** plan on providing customer service or digging up old code. 
-* In the interest of my own time, sanity and work commitments I may not reply (promptly or altogether) to misc email. 
+* In the interest of my own time, sanity and work commitments I may not reply (promptly or altogether) to misc email or linkedin messages.
+
