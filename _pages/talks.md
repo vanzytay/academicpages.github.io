@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
+## Talks / Panels
+
+* [Why Should I pursue an AI PhD in Singapore]()
+  * AI Singapore Panelist (Virtual)
+  * Dec 2020, <i> Host: Prof Bryan Low </i>
 
 * [Transformer Models - Recent Advances and New Perspectives]()
   * AI Singapore Summer School 2020 (Virtual)
@@ -41,7 +45,8 @@ author_profile: true
 
 * [Novel Neural Network Architectures for Sequence Encoding]()
   * Singapore University of Technology and Design (SUTD)
-  * Jan 2019, <i> Host: Prof Lu Wei </i>
+  * Jan 2019, <i> Host: Prof Lu Wei </i> <br>
+  ** NOT A JOB TALK ** 
 
 * [Neural Networks for Question Answering]()
   * A\*STAR, Institute for Infocomm Research, Singapore
@@ -49,7 +54,8 @@ author_profile: true
 
 * [Neural Architectures for Natural Language Understanding]()
   * Singapore Management University (SMU)
-  * Nov 2018, <i> Host: Prof Jing Jiang </i>
+  * Nov 2018, <i> Host: Prof Jing Jiang </i> <br>
+  ** NOT A JOB TALK **
 
 
 ## Conference Talks
