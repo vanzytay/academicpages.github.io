@@ -16,7 +16,7 @@ You are viewing full chronological publication list. View papers by subject area
 Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
 
 <b> [Efficient Transformers: A Survey]()</b> <br>
-<b> Yi Tay </b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
+<b> Yi Tay</b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDf](https://arxiv.org/abs/2009.06732) | 
 
@@ -30,6 +30,12 @@ Model code is released in the [Mesh Tensorflow Library](https://github.com/tenso
 <b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2007.05891) |
+
+<b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
+Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2012.00857) | Code at [Google Research Github](https://github.com/google-research/google-research/tree/master/structformer) <br>
+*Yikang's Internship Work at Google Research*
 
 # Year of 2021
 
