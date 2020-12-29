@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 28.12.20 - Invited to serve as standing reviewer of CL journal.
 * 18.11.20 - Serving as Area Chair (IR track) of NAACL 2021. 
 * 19.10.20 - Invited to serve as standing reviewer of TACL.
 * 16.10.20 - Paper accepted to WSDM 2021.
