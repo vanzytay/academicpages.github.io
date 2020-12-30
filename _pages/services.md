@@ -25,5 +25,6 @@ author_profile: true
 ## Journals
 
 1. Standing reviewer of TACL
+2. Standing reviewer of Computational Linguistics (CL) 
 
 Note: There have been too many random journal review requests lately and in the interest of my own bandwidth and time I plan to decline all journal requests (with a few exceptions). 
