@@ -9,12 +9,6 @@ You are viewing full chronological publication list. View papers by subject area
 
 # Preprints
 
-<b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
-<b> Yi Tay* </b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
-<i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2011.04006) |
-Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
-
 <b> [Efficient Transformers: A Survey]()</b> <br>
 <b> Yi Tay</b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
@@ -26,11 +20,6 @@ Code is released at [Google Research Github](https://github.com/google-research/
 [PDF](https://arxiv.org/abs/2005.00743) |
 Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
-<b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
-<b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
-<i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2007.05891) |
-
 <b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
 Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
 <i> arXiV preprint </i> <br>
@@ -38,6 +27,28 @@ Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courvil
 *Yikang's Internship Work at Google Research*
 
 # Year of 2021
+
+<b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
+<b> Yi Tay* </b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
+<i> Proceedings of ICLR 2021 </i> <br>
+[PDF](https://arxiv.org/abs/2011.04006) |
+Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
+
+<b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
+<b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
+<i> Proceedings of ICLR 2021 </i> <br>
+[PDF](https://arxiv.org/abs/2007.05891) |
+
+<b> [Neural Rankers are Hitherto Outperformed by Gradient Boosted Decision Trees]() </b> <br>
+Zhen Qin, Le Yan, Honglei Zhuang, <b>Yi Tay</b>, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork <br>
+<i> Proceedings of ICLR 2021 </i> <br>
+[PDF](https://openreview.net/pdf?id=Ut1vF_q_vC) |
+
+<b> [Parameterization of Hypercomplex Multiplications]() </b> <br>
+Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hui, Jie Fu <br>
+<i> Proceedings of ICLR 2021 </i> <br>
+[PDF](https://arxiv.org/abs/2007.05891) | <br>
+*Work done while I was a PhD student at NTU*
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
 Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
