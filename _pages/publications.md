@@ -37,17 +37,17 @@ Code is released at [Google Research Github](https://github.com/google-research/
 <b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
 <b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
 <i> Proceedings of ICLR 2021 </i> <br>
-[PDF](https://arxiv.org/abs/2007.05891) |
+[PDF](https://openreview.net/forum?id=hiq1rHO8pNT) |
 
 <b> [Neural Rankers are Hitherto Outperformed by Gradient Boosted Decision Trees]() </b> <br>
 Zhen Qin, Le Yan, Honglei Zhuang, <b>Yi Tay</b>, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork <br>
-<i> Proceedings of ICLR 2021 </i> <br>
+<i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
 [PDF](https://openreview.net/pdf?id=Ut1vF_q_vC) |
 
 <b> [Parameterization of Hypercomplex Multiplications]() </b> <br>
 Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hui, Jie Fu <br>
-<i> Proceedings of ICLR 2021 </i> <br>
-[PDF](https://arxiv.org/abs/2007.05891) | <br>
+<i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
+[PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <br>
 *Work done while I was a PhD student at NTU*
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
