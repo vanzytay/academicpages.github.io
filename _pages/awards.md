@@ -10,8 +10,9 @@ author_profile: true
 1. WSDM 2020 Best Paper Award Runner Up - Feb 2020
 2. NTU SCSE Outstanding (Best) PhD thesis Award - June 2020
 3. A*Star Graduate Scholarship (AGS) - August 2017 - June 2019
-4. EMNLP 2018 Best Reviewer Award (Top 7% reviewers) - November 2018
-5. Assorted Conference Scholarships (SIGIR'17, ICWSM'18, KDD'18, EMNLP'18, NeurIPS'18, ACL'19)
+4. WSDM 2021 Outstanding Reviewer Award (Top 6% reviewers) - January 2021
+5. EMNLP 2018 Best Reviewer Award (Top 7% reviewers) - November 2018
+6. Assorted Conference Scholarships (SIGIR'17, ICWSM'18, KDD'18, EMNLP'18, NeurIPS'18, ACL'19)
 
 ## Competitions
 1. CIKM AnalytiCup 2017 (Lazada Product Quality - Challenge) - Honorable Mention (4/5th place) - September 2017
