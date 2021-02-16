@@ -44,7 +44,7 @@ Zhen Qin, Le Yan, Honglei Zhuang, <b>Yi Tay</b>, Rama Kumar Pasumarthi, Xuanhui 
 <i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
 [PDF](https://openreview.net/pdf?id=Ut1vF_q_vC) |
 
-<b> [Parameterization of Hypercomplex Multiplications]() </b> <br>
+<b> [Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/N Parameters](https://openreview.net/forum?id=rcQdycl0zyk) </b> <br>
 Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hui, Jie Fu <br>
 <i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
 [PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <br>
