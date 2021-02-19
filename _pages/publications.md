@@ -53,7 +53,7 @@ Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hu
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
 Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkins <br>
 <i> Proceedings of WSDM 2021 </i> <br>
-[PDF](https://arxiv.org/abs/2008.13533) |
+[PDF](https://arxiv.org/abs/2008.13533) | <b> (Best Paper Award Runner-Up) </b> <br>
 
 
 
