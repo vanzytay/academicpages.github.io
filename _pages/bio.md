@@ -8,15 +8,17 @@ author_profile: true
 
 I am a Research Scientist at [Google AI](https://ai.google/) based in Mountain View, California. I am working on Natural Language Processing and Machine Learning research. I'm particularly interested in neural modeling, deep learning and attention models. You can find my Google Research homepage [here](https://research.google/people/106722/).
 
-Previously, I obtained my PhD in Computer Science from NTU, Singapore. I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://people.csail.mit.edu/tuanluu/) (previously @ A\*Star) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. 
+Previously, I obtained my PhD in Computer Science from NTU, Singapore. I did my PhD under the A\*Star Graduate Scholarship, supervised by Prof [Hui Siu Cheung](https://www.ntu.edu.sg/home/asschui/) (@ NTU), Dr [Luu Anh Tuan](https://tuanluu.github.io/) (previously @ A\*Star) and Dr [Su Jian](http://www.colips.org/~sujian/) (@ A\*Star, I2R) where I was affiliated with the Baidu I2R Research Center working on NLP research. 
 
 My thesis was entitled *Neural Architectures for Natural Language Understanding*, which proposed neural models and achieved new state-of-the-art (at that time) across a spectrum of NLU problems such as reading comprehension, question answering and natural language inference. Notably, my thesis also won the outstanding PhD thesis award (best thesis out of *all* graduating PhDs in the year 2020) at NTU SCSE. 
 
 For a brief transition period, I was also a visiting research scientist at A\*STAR from June 2019 to October 2019 where I worked on fundamental ML/DL research. Before pursuing a PhD, I earned my Bachelors in Engineering (Computer Science) from NTU, Singapore in 2015.
 
-I am fortunate to have won best paper award (runner-up) at WSDM 2020, along with several prizes at data science competitions such as CIKM Cup 2016 (1st place) and 2017 (4th place). I also won first place at CVPR VQA Challenge 2017. 
+I have also won best paper awards (runner-up) at both WSDM 2020 and WSDM 2021 for my work on [hyperbolic recommenders](https://dl.acm.org/doi/10.1145/3336191.3371850) (2020) and [colossal-scale page quality analysis with generative models](https://research.google/pubs/pub49668/) (2021).
 
-Pertaining to research, I largely identify with the NeurIPS/ACL/EMNLP communities although I also publish frequently in Information Retrieval and Data Mining conferences (WSDM/KDD/WWW etc). I have also served as a regular program committee to almost all top tier conferences these areas and also Area Chair for top conferences such as EMNLP and NAACL.
+I also won several prizes at data science competitions such as CIKM Cup 2016 (1st place) and 2017 (4th place). I also won first place at CVPR VQA Challenge 2017. 
+
+Pertaining to research, I largely identify with the NeurIPS,ACL,EMNLP communities although I also publish frequently in Information Retrieval and Data Mining conferences (WSDM, KDD, WWW etc). I have also served as a regular program committee to almost all top tier conferences these areas and also Area Chair for top NLP conferences such as EMNLP and NAACL.
 
 I am also a chapter co-author of the [Dive into Deep Learning textbook](https://d2l.ai/) which is adopted in 140 universities and 35 countries. I am also a chapter co-author of the Springer Recommender Systems Handbook (3rd Edition). 
 
