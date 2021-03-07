@@ -10,7 +10,7 @@ You are viewing full chronological publication list. View papers by subject area
 # Preprints
 
 <b> [OmniNet: Omnidirectional Representations from Transformers]()</b> <br>
-<b> Yi Tay*</b>, Mostafa Dehghani*, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler <br>
+<b> Yi Tay* </b>, Mostafa Dehghani*, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDf](https://arxiv.org/abs/2103.01075) |
 
