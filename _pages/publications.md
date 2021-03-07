@@ -9,6 +9,16 @@ You are viewing full chronological publication list. View papers by subject area
 
 # Preprints
 
+<b> [OmniNet: Omnidirectional Representations from Transformers]()</b> <br>
+<b> Yi Tay*</b>, Mostafa Dehghani*, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler <br>
+<i> arXiV preprint </i> <br>
+[PDf](https://arxiv.org/abs/2103.01075) |
+
+<b> [Do Transformer Modifications Transfer Across Implementations and Applications?]()</b> <br>
+Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel <br>
+<i> arXiV preprint </i> <br>
+[PDf](https://arxiv.org/abs/2102.11972) |
+
 <b> [Efficient Transformers: A Survey]()</b> <br>
 <b> Yi Tay</b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
