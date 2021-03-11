@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 11.03.21 - Invited to serve as Area Chair for EMNLP 2021.
 * 10.03.21 - Paper accepted to NAACL 2021. 
 * 18.02.21 - Our WSDM 2021 [paper](https://arxiv.org/abs/2008.13533) received the best paper award (runner-up)
 * 20.01.21 - Awarded Outstanding Reviewer Award (top 6%) at WSDM 2021. 
