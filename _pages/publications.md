@@ -65,6 +65,11 @@ Dara Bahri, <b>Yi Tay</b>, Che Zheng, Donald Metzler, Cliff Brunk, Andrew Tomkin
 <i> Proceedings of WSDM 2021 </i> <br>
 [PDF](https://arxiv.org/abs/2008.13533) | <b> (Best Paper Award Runner-Up) </b> <br>
 
+<b> [Knowledge Router: Learning Disentangled Representations for Knowledge Graphs]() </b> <br>
+Shuai Zhang, Xi Rao, <b>Yi Tay</b>, Ce Zhang <br>
+<i> Proceedings of NAACL 2021 </i> <br>
+[PDF]() | <br>
+
 
 
 # Year of 2020
