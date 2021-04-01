@@ -14,7 +14,7 @@ My thesis was entitled *Neural Architectures for Natural Language Understanding*
 
 For a brief transition period, I was also a visiting research scientist at A\*STAR from June 2019 to October 2019 where I worked on fundamental ML/DL research. Before pursuing a PhD, I earned my Bachelors in Engineering (Computer Science) from NTU, Singapore in 2015.
 
-I have also won best paper awards (runner-up) at both WSDM 2020 and WSDM 2021 for my work on [hyperbolic recommenders](https://dl.acm.org/doi/10.1145/3336191.3371850) (2020) and [colossal-scale page quality analysis with generative models](https://research.google/pubs/pub49668/) (2021).
+I have also won best paper awards (runner-up) at both WSDM 2020 and WSDM 2021 for my work on [hyperbolic recommenders](https://dl.acm.org/doi/10.1145/3336191.3371850) (2020) and [colossal-scale page quality analysis with generative models](https://research.google/pubs/pub49668/) (2021). I've also won the Outstanding Paper Award (top-8 best papers) at ICLR 2021 for my work on [neural parameterization of hypercomplex multiplications](https://openreview.net/forum?id=rcQdycl0zyk).
 
 I also won several prizes at data science competitions such as CIKM Cup 2016 (1st place) and 2017 (4th place). I also won first place at CVPR VQA Challenge 2017. 
 
