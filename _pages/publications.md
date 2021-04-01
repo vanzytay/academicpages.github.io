@@ -57,7 +57,7 @@ Zhen Qin, Le Yan, Honglei Zhuang, <b>Yi Tay</b>, Rama Kumar Pasumarthi, Xuanhui 
 <b> [Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/N Parameters](https://openreview.net/forum?id=rcQdycl0zyk) </b> <br>
 Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hui, Jie Fu <br>
 <i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
-[PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <br>
+[PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <b> (Outstanding Paper Award, Top-8) </b> <br>
 *Work done while I was a PhD student at NTU*
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
