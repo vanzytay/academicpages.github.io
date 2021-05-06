@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 06.05.21 - 4 papers accepted to ACL 2021 (2 long, 1 short, 1 findings)
 * 01.04.21 - Our [paper](https://openreview.net/forum?id=rcQdycl0zyk) received the Outstanding Paper Award (top-8) at ICLR 2021.
 * 11.03.21 - Invited to serve as Area Chair for EMNLP 2021.
 * 10.03.21 - Paper accepted to NAACL 2021. 
