@@ -30,12 +30,6 @@ Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Ka
 [PDF](https://arxiv.org/abs/2005.00743) |
 Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
-<b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
-Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
-<i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2012.00857) | Code at [Google Research Github](https://github.com/google-research/google-research/tree/master/structformer) <br>
-*Yikang's Internship Work at Google Research*
-
 # Year of 2021
 
 <b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
@@ -58,6 +52,29 @@ Zhen Qin, Le Yan, Honglei Zhuang, <b>Yi Tay</b>, Rama Kumar Pasumarthi, Xuanhui 
 Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hui, Jie Fu <br>
 <i> Proceedings of ICLR 2021 (**spotlight**) </i> <br>
 [PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <b> (Outstanding Paper Award, Top-8) </b> <br>
+*Work done while I was a PhD student at NTU*
+
+<b> [Are Pretrained Convolutions Better than Pretrained Transformers]() </b> <br>
+<b>Yi Tay</b>, Mostafa Dehghani, Jai Gupta, Dara Bahri, Vamsi Aribandi, Zhen Qin, Donald Metzler <br>
+<i> ACL 2021 (Long Paper) </i> <br>
+[PDF]() |
+
+<b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
+Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
+<i> ACL 2021 (Long Paper) </i> <br>
+[PDF](https://arxiv.org/abs/2012.00857) | Code at [Google Research Github](https://github.com/google-research/google-research/tree/master/structformer) <br>
+*Yikang's Internship Work at Google Research*
+
+<b> [Are Model Diagnostics Reliable?]() </b> <br>
+Vamsi Aribandi, <b>Yi Tay</b>, Donald Metzler <br>
+<i> ACL 2021 (Short Paper, Findings of ACL) </i> <br>
+[PDF]() | <br>
+*Vamsi's work as Google AI resident*
+
+<b> [On Orthogonality Constraints of Transformers]() </b> <br>
+Aston Zhang, Alvin Chan, <b>Yi Tay</b>, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee <br>
+<i> ACL 2021 (Short Paper) </i> <br>
+[PDF]() | <br>
 *Work done while I was a PhD student at NTU*
 
 <b> [Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study]() </b> <br>
