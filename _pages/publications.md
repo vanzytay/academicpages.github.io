@@ -31,7 +31,7 @@ Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Ka
 Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
 <b> [Rethinking Search: Making Experts out of Dilettantes]() </b> <br>
-Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork
+Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2105.02274) |
 
