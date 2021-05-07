@@ -30,6 +30,12 @@ Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Ka
 [PDF](https://arxiv.org/abs/2005.00743) |
 Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
+<b> [Rethinking Search: Making Experts out of Dilettantes]() </b> <br>
+Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork
+<i> arXiV preprint </i> <br>
+[PDF](https://arxiv.org/abs/2105.02274) |
+
+
 # Year of 2021
 
 <b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
@@ -54,7 +60,7 @@ Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hu
 [PDF](https://openreview.net/forum?id=rcQdycl0zyk) | <b> (Outstanding Paper Award, Top-8) </b> <br>
 *Work done while I was a PhD student at NTU*
 
-<b> [Are Pretrained Convolutions Better than Pretrained Transformers]() </b> <br>
+<b> [Are Pretrained Convolutions Better than Pretrained Transformers?]() </b> <br>
 <b>Yi Tay</b>, Mostafa Dehghani, Jai Gupta, Dara Bahri, Vamsi Aribandi, Zhen Qin, Donald Metzler <br>
 <i> ACL 2021 (Long Paper) </i> <br>
 [PDF]() |
