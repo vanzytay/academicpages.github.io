@@ -9,26 +9,15 @@ You are viewing full chronological publication list. View papers by subject area
 
 # Preprints
 
-<b> [OmniNet: Omnidirectional Representations from Transformers]()</b> <br>
-<b> Yi Tay* </b>, Mostafa Dehghani*, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler <br>
-<i> arXiV preprint </i> <br>
-[PDf](https://arxiv.org/abs/2103.01075) |
-
-<b> [Do Transformer Modifications Transfer Across Implementations and Applications?]()</b> <br>
-Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel <br>
-<i> arXiV preprint </i> <br>
-[PDf](https://arxiv.org/abs/2102.11972) |
-
 <b> [Efficient Transformers: A Survey]()</b> <br>
 <b> Yi Tay</b>, Mostafa Dehghani, Dara Bahri, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDf](https://arxiv.org/abs/2009.06732) | 
 
-<b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
-<b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
+<b> [Do Transformer Modifications Transfer Across Implementations and Applications?]()</b> <br>
+Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel <br>
 <i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2005.00743) |
-Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
+[PDf](https://arxiv.org/abs/2102.11972) |
 
 <b> [Rethinking Search: Making Experts out of Dilettantes]() </b> <br>
 Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork <br>
@@ -37,6 +26,17 @@ Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork <br>
 
 
 # Year of 2021
+
+<b> [OmniNet: Omnidirectional Representations from Transformers]()</b> <br>
+<b> Yi Tay* </b>, Mostafa Dehghani*, Vamsi Aribandi, Jai Gupta, Philip Pham, Zhen Qin, Dara Bahri, Da-Cheng Juan, Donald Metzler <br>
+<i> Proceedings of ICML 2021 (Oral, Long Talk) ~top 3% </i> <br>
+[PDf](https://arxiv.org/abs/2103.01075) |
+
+<b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
+<b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
+<i> Proceeedings of ICML 2021 </i> <br>
+[PDF](https://arxiv.org/abs/2005.00743) |
+Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
 
 <b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
 <b> Yi Tay* </b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
@@ -62,24 +62,24 @@ Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hu
 
 <b> [Are Pretrained Convolutions Better than Pretrained Transformers?]() </b> <br>
 <b>Yi Tay</b>, Mostafa Dehghani, Jai Gupta, Dara Bahri, Vamsi Aribandi, Zhen Qin, Donald Metzler <br>
-<i> ACL 2021 (Long Paper) </i> <br>
+<i> Proceedings of ACL 2021 (Long Paper) </i> <br>
 [PDF]() |
 
 <b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
 Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
-<i> ACL 2021 (Long Paper) </i> <br>
+<i> Proceedings of ACL 2021 (Long Paper) </i> <br>
 [PDF](https://arxiv.org/abs/2012.00857) | Code at [Google Research Github](https://github.com/google-research/google-research/tree/master/structformer) <br>
 *Yikang's Internship Work at Google Research*
 
 <b> [Are Model Diagnostics Reliable?]() </b> <br>
 Vamsi Aribandi, <b>Yi Tay</b>, Donald Metzler <br>
-<i> ACL 2021 (Short Paper, Findings of ACL) </i> <br>
+<i> Proceedings of ACL 2021 (Short Paper, Findings of ACL) </i> <br>
 [PDF]() | <br>
 *Vamsi's work as Google AI resident*
 
 <b> [On Orthogonality Constraints of Transformers]() </b> <br>
 Aston Zhang, Alvin Chan, <b>Yi Tay</b>, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee <br>
-<i> ACL 2021 (Short Paper) </i> <br>
+<i> Proceedings of ACL 2021 (Short Paper) </i> <br>
 [PDF]() | <br>
 *Work done while I was a PhD student at NTU*
 
