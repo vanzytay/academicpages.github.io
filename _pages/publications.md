@@ -18,11 +18,14 @@ You are viewing full chronological publication list. View papers by subject area
 Sharan Narang, Hyung Won Chung, <b>Yi Tay</b>, William Fedus, Michael Matena, Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, Yanqi Zhou, Wei Li, Nan Ding, Jake Marcus, Adam Roberts, Colin Raffel <br>
 <i> arXiV preprint </i> <br>
 [PDf](https://arxiv.org/abs/2102.11972) |
+Press: [Synced Review](https://medium.com/syncedreview/google-study-shows-transformer-modifications-fail-to-transfer-across-implementations-and-ab909a8729a8)
 
 <b> [Rethinking Search: Making Experts out of Dilettantes]() </b> <br>
 Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork <br>
 <i> arXiV preprint </i> <br>
-[PDF](https://arxiv.org/abs/2105.02274) |
+[PDF](https://arxiv.org/abs/2105.02274) | <br>
+Press: [Wired](https://www.wired.com/story/google-hopes-ai-turn-search-conversation/) | [MIT Technology Review](https://www.technologyreview.com/2021/05/14/1024918/language-models-gpt3-search-engine-google/)
+
 
 
 # Year of 2021
@@ -35,14 +38,16 @@ Donald Metzler, <b>Yi Tay</b>, Dara Bahri, Marc Najork <br>
 <b> [Synthesizer: Rethinking Self-Attention in Transformer Models]() </b> <br>
 <b>Yi Tay</b>, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng <br>
 <i> Proceeedings of ICML 2021 </i> <br>
-[PDF](https://arxiv.org/abs/2005.00743) |
-Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh)
+[PDF](https://arxiv.org/abs/2005.00743) | [Tweet](https://twitter.com/ytay017/status/1397223165483438092?s=20) <br>
+Model code is released in the [Mesh Tensorflow Library](https://github.com/tensorflow/mesh) <br>
+Press: [Yannic Kilcher's Channel](https://www.youtube.com/watch?v=q7QP_lfqnQM) | [DL Reviews](https://www.dl.reviews/2020/05/23/synthesizer/) | [Stanford CS224N](https://web.stanford.edu/class/cs224n/assignments/a5.pdf)
 
 <b> [Long Range Arena: A Benchmark for Efficient Transformers]() </b> <br>
 <b> Yi Tay* </b>, Mostafa Dehghani*, Samira Abnar, Yikang Shen, Dara Bahri, <br> Phillip Pham, Jinfeng Rao, Liu Yang,  Sebastian Ruder, Donald Metzler <br>
 <i> Proceedings of ICLR 2021 </i> <br>
 [PDF](https://arxiv.org/abs/2011.04006) |
-Code is released at [Google Research Github](https://github.com/google-research/long-range-arena)
+Code is released at [Google Research Github](https://github.com/google-research/long-range-arena) <br>
+Press: [Huggingface Blogs](https://huggingface.co/blog/long-range-transformers) | [SyncedReview](https://syncedreview.com/2020/11/12/google-deepmind-debut-benchmark-for-long-range-transformers/)
 
 <b> [HyperGrid - Efficient Multi-Task Transformers with Grid-wise Decomposable Hyper Projections]() </b> <br>
 <b>Yi Tay</b>, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan <br>
@@ -63,7 +68,8 @@ Aston Zhang, <b>Yi Tay</b>, Shuai Zhang, Alvin Chan, Luu Anh Tuan, Siu Cheung Hu
 <b> [Are Pretrained Convolutions Better than Pretrained Transformers?]() </b> <br>
 <b>Yi Tay</b>, Mostafa Dehghani, Jai Gupta, Dara Bahri, Vamsi Aribandi, Zhen Qin, Donald Metzler <br>
 <i> Proceedings of ACL 2021 (Long Paper) </i> <br>
-[PDF]() |
+[PDF](https://arxiv.org/abs/2105.03322) | [Tweet](https://twitter.com/ytay017/status/1391822502523936769?lang=en)
+Press: [AI Coffee Break (Youtube)](https://www.youtube.com/watch?v=xchDU2VMR4M)
 
 <b> [Structformer: Joint Unsupervised Induction of Dependency and Constituency Structure from Masked Language Modeling](https://arxiv.org/abs/2012.00857) </b> <br>
 Yikang Shen, <b>Yi Tay</b>, Che Zheng, Dara Bahri, Donald Metzler, Aaron Courville <br>
