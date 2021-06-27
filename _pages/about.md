@@ -12,6 +12,7 @@ Hi! I am a Research Scientist at [Google AI](https://ai.google/) working on Natu
 
 
 ## Latest News
+* 27.06.21 - Check out our [Charformer](https://arxiv.org/abs/2106.12672) preprint!
 * 08.05.21 - 2 papers accepted to ICML 2021! 
 * 06.05.21 - 4 papers accepted to ACL 2021 (2 long, 1 short, 1 findings)
 * 01.04.21 - Our [paper](https://openreview.net/forum?id=rcQdycl0zyk) received the Outstanding Paper Award (top-8) at ICLR 2021.
