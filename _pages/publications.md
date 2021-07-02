@@ -10,7 +10,7 @@ You are viewing full chronological publication list. View papers by subject area
 # Preprints
 
 <b> [Charformer: Fast Character Transformers via Gradient-based Subword Tokenization]()</b> <br>
-<b> Yi Tay*</b>, Vinh Q. Tran*, Sebastian Ruder, Jai Gupta, Hyung Won Chung, Dara Bahri, Zhen Qin, Simon Baumgartner, Cong Yu, Donald Metzler <br>
+<b> Yi Tay* </b>, Vinh Q. Tran*, Sebastian Ruder, Jai Gupta, Hyung Won Chung, Dara Bahri, Zhen Qin, Simon Baumgartner, Cong Yu, Donald Metzler <br>
 <i> arXiV preprint </i> <br>
 [PDF](https://arxiv.org/abs/2106.12672) | [Tweet](https://twitter.com/ytay017/status/1408469060052946951?s=20) | [Code](https://github.com/google-research/google-research/charformer)
 
