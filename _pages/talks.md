@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks / Panels
 
+* [Transformers Models: Recent Advances]()
+  * Deep Learning UB Summer School Mongolia (Virtual)
+  * July 2021, <i> Host: Dr Tsendsuren Munkdalai </i>
+
 * [Why Should I pursue an AI PhD in Singapore]()
   * AI Singapore Panelist (Virtual)
   * Dec 2020, <i> Host: Prof Bryan Low </i>
