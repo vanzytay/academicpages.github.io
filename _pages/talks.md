@@ -9,7 +9,7 @@ author_profile: true
 
 * [Transformers Models: Recent Advances]()
   * Deep Learning UB Summer School Mongolia (Virtual)
-  * July 2021, <i> Host: Dr Tsendsuren Munkdalai </i>
+  * July 2021, <i> Host: Dr Tsendsuren Munkhdalai </i>
 
 * [Why Should I pursue an AI PhD in Singapore]()
   * AI Singapore Panelist (Virtual)
